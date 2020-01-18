@@ -4,26 +4,43 @@ date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
+  - mains, north, chickpea, vegan
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## "Chana Masala A"
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+### ingredients:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+- [ ] vegetable oil
+- [ ] 1⁄2 teaspoon ginger
+- [ ] 1 tablespoon garlic
+- [ ] 1⁄2 cup soy sauce
+- [ ] 1⁄2 cup water
+- [ ] 3⁄4 cup dark brown sugar
+- [ ] 1 lb flank steak
+- [ ] 1 yellow onion
+- [ ] 2 large green onions
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### directions (turbo):
+- [ ] Slice the beef thin and cook with a bit of oil (your choice) and the yellow onion (cut into petals) in a medium saucepan. Set aside when done.
+- [ ] Make the sauce by heating 2 tsp of vegetable oil over med/low heat in the same pan. Don't get the oil too hot.
+- [ ] Add ginger and garlic to the pan and quickly add the soy sauce and water before the garlic scorches.
+- [ ] Dissolve the brown sugar in the sauce, then raise the heat to medium and boil the sauce for 2-3 minutes or until the sauce thickens.
+- [ ] Remove from the heat, add beef back in. Toss
+- [ ] Serve with rice, top with green onions
+
+### directions (epic):
+- [ ] Slice the beef thin and cook with a bit of oil (your choice) and the yellow onion (cut into petals) in a medium saucepan. Set aside when done.
+
+### features:
+spice this thing up, with a dose of your favorite chili paste/sauce.
+
+### comments:
+A quick go-to dinner. Can be made with almost any meat. I often used ground. Works perfect for lettuce wraps. Try replacing the onion with thinly sliced fennel.
+
+### source
+
+https://minimalistbaker.com/easy-chana-masala/
