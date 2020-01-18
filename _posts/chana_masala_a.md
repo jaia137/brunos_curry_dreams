@@ -1,18 +1,16 @@
+---
+title: "Welcome to Jekyll!"
+date: 2019-04-18T15:34:30-04:00
+categories:
+  - blog
+tags:
+  - mains, north, chickpea, vegan
+  - update
+---
+
+## "Chana Masala A"
 
 
-layout: recipe
-
-## title:  "Chana Masala A"
-
-image: XXX.jpg
-
-imagecredit: xxx
-<<<<<<< HEAD
-
-tags: mains, north, chickpea, vegan
-=======
-tags: mains, north, vegan, quick
->>>>>>> 3d6c57df8cd26f6d238fc2a93fe4b5d054fffc64
 
 ### ingredients:
 
