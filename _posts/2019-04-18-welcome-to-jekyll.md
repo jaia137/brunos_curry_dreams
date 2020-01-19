@@ -22,11 +22,11 @@ tags:
 - [ ] 1 teaspoon garam masala
 - [ ] 1.5 - 2 teaspoon cilantro powder
 - [ ] 1/2 teaspoon cumin powder
-- [ ] 1/2 teaspoon chili powder or 1-2 red chilies
+- [ ] 1/2 teaspoon chili powder and/or 1-2 green chilies
 - [ ] 1 large onion
 - [ ] 1-2 garlic
 - [ ] 1 cup of chopped/crushed tomato
-- [ ] 1-2 cups of water
+- [ ] 1-2 cup of water
 - [ ] 1 inch ginger
 - [ ] 1 cup peas
 - [ ] 250-400 g fresh paneer cubed
@@ -37,7 +37,7 @@ tags:
 - [ ] 1 bay leaf
 - [ ] 1 teaspoon fenugrek leaves to garnish
 
-### directions (turbo):
+### instruction (turbo):
 - [ ] roast spices
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies, make paste
@@ -47,7 +47,7 @@ tags:
 - [ ] serve with rice or naan
 
 
-### directions (epic):
+### instruction (epic):
 - [ ] ...
 
 
