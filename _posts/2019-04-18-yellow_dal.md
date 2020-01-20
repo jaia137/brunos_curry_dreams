@@ -7,12 +7,9 @@ tags:
   - main 
   - north
   - dal
+  - vegan
 
 ---
-
-## Yellow Dal
-
-
 
 ### ingredients:
 
@@ -25,9 +22,9 @@ tags:
 - [ ] 1/2 teaspoon chili powder or 1-2 red chilies
 - [ ] 1 large onion
 - [ ] 1 - 2 garlic
+- [ ] 1 inch ginger
 - [ ] 1 - 2 cup of coconut milk
 - [ ] 1 cup of water
-- [ ] 1 inch ginger
 - [ ] 250 g red or yellow lentils
 - [ ] soysauce to taste
 - [ ] fresh cilantro
@@ -35,24 +32,26 @@ tags:
 ### optional:
 
 
-### instruction (turbo):
+### instruction (easy):
 - [ ] roast spices
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies, make paste
 - [ ] add lentils, half of the coconut milk, water and ginger, cook until lentils are done
-- [ ] add coconut milk, salt, soysauce, and fresh cilantro to finish
+- [ ] add rest of coconut milk, salt, soysauce, and fresh cilantro to finish
 - [ ] serve with rice or naan
 
 
 ### instruction (epic):
-- [ ] ...
+- [ ] tbd
 
 
 
-### comments:
+### chef bruno's pro tips:
 
+- careful with the soy sauce, can be very dominant
+- can also be served as soup, just use more liquid
 
 
 ### source
 
-XXX
+unknown

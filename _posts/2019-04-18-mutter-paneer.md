@@ -10,10 +10,6 @@ tags:
 
 ---
 
-## Mutter Paneer
-
-
-
 ### ingredients:
 
 - [ ] 3 tablespoon vegetable oil or ghee
@@ -25,9 +21,9 @@ tags:
 - [ ] 1/2 teaspoon chili powder and/or 1-2 green chilies
 - [ ] 1 large onion
 - [ ] 1-2 garlic
+- [ ] 1 inch ginger
 - [ ] 1 cup of chopped/crushed tomato
 - [ ] 1-2 cup of water
-- [ ] 1 inch ginger
 - [ ] 1 cup peas
 - [ ] 250-400 g fresh paneer cubed
 - [ ] 1/4 cup of cream 
@@ -37,7 +33,7 @@ tags:
 - [ ] 1 bay leaf
 - [ ] 1 teaspoon fenugrek leaves to garnish
 
-### instruction (turbo):
+### instruction (easy):
 - [ ] roast spices
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies, make paste
@@ -48,15 +44,14 @@ tags:
 
 
 ### instruction (epic):
-- [ ] ...
+- [ ] tbd
 
 
+### chef bruno's pro tips:
 
-
-### comments:
-
-
+- this is a classic, mild version of the mutter paneer. use dried fenugrek seeds to boost umami. very common in restaurant style mutter paneer
+- use soft tofu for a vegan variant
 
 ### source
 
-XXX
+unknown, tbd
