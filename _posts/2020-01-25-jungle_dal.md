@@ -9,6 +9,7 @@ tags:
   - dal
   - vegan
   - jungle
+  - fast
 
 ---
 
@@ -28,13 +29,14 @@ tags:
 
 ### optional:
 
+### prepration time: 20-30'
 
 ### instruction (easy):
 - [ ] cook lentils, water, coconut milk, turmeric powder, and salt in large pan
 - [ ] fry chopped onions until roasted in separate pan
 - [ ] add garlic, chilies, mustard seeds, curry leaves and fry
 - [ ] mix fried spices with lentils, cook until done
-- [ ] serve with dosa or rice, fresh cilantro
+- [ ] serve with dosa or rice, fresh cilantro, lemons
 
 
 ### instruction (epic):
@@ -44,11 +46,11 @@ tags:
 
 ### chef bruno's pro tips:
 
-- dish relies heavily on curry leave and coconut milk taste, aim for quality products
+- dish relies heavily on curry leaves and coconut milk taste, aim for quality products
 - simple but very tasty recipe! no ginger, not much spices
 
 
 
 ### source
 
-sri lanka jungle
+oral tradition, sri lanka jungle

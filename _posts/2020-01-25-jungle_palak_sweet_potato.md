@@ -8,6 +8,7 @@ tags:
   - freestyle
   - vegan
   - jungle
+  - fast
 
 ---
 
@@ -27,14 +28,13 @@ tags:
 - [ ] 4-8 curry leaves 
 - [ ] agni masala instead of listed spices
 
+### prepration time: 20'
 
 ### instruction (easy):
 - [ ] mix coconut milk, water, salt and spices into small pan. cook for some minutes
-- [ ] cook vegetables
+- [ ] cook vegetables, remove remaining water
 - [ ] add sauce to vegetables, cook and stir for some minutes
 - [ ] serve with rice, or as side dish
-
-
 
 
 ### instruction (epic):

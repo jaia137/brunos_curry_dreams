@@ -7,6 +7,7 @@ tags:
   - main 
   - north
   - paneer
+  - slow
 
 ---
 
@@ -33,6 +34,9 @@ tags:
 - [ ] 1 bay leaf
 - [ ] 1 teaspoon fenugrek leaves to garnish
 
+### prepration time: 60+'
+
+
 ### instruction (easy):
 - [ ] roast spices
 - [ ] add chopped onions, fry until golden
@@ -49,7 +53,7 @@ tags:
 
 ### chef bruno's pro tips:
 
-- this is a classic, mild version of the mutter paneer. use dried fenugrek seeds to boost umami. very common in restaurant style mutter paneer
+- this is a classic, mild version of the mutter paneer. use dried fenugrek leaves to boost umami
 - use soft tofu for a vegan variant
 
 ### source

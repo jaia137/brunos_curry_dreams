@@ -8,6 +8,7 @@ tags:
   - north
   - dal
   - vegan
+  - fast
 
 ---
 
@@ -30,6 +31,8 @@ tags:
 - [ ] fresh cilantro
 
 ### optional:
+
+### prepration time: 20 -30'
 
 
 ### instruction (easy):
