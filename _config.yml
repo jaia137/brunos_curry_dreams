@@ -99,4 +99,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
