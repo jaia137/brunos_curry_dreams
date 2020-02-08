@@ -2,6 +2,8 @@
 
 cultivated/updated repo/website for pat's curry recipes.
 
+https://jaia137.github.io/brunos_curry_dreams/
+
 
 # changelog
 
