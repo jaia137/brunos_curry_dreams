@@ -15,7 +15,7 @@ tags:
 
 ### ingredients:
 
-- [ ] 3 tablespoon vegetable oil or ghee
+- [ ] 3 tablespoon vegetable oil
 - [ ] 1 teaspoon of salt
 - [ ] 1 teaspoon turmeric
 - [ ] 1 teaspoon mustard seeds
