@@ -63,14 +63,14 @@ author:
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jaia137/curries"
+      url: "https://github.com/jaia137/brunos_curry_dreams"
 
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jaia137/curries"
+      url: "https://github.com/jaia137/brunos_curry_dreams"
 
 defaults:
   # _posts
