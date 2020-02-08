@@ -2,9 +2,8 @@
 title: "Jungle Dal"
 date: 2020-01-25T15:34:30-04:00
 categories:
-  - curry
-tags:
   - main 
+tags:
   - south
   - dal
   - vegan
@@ -15,7 +14,7 @@ tags:
 
 ### ingredients:
 
-- [ ] 3 tablespoon vegetable oil
+- [ ] 2 tablespoon vegetable oil
 - [ ] 1 teaspoon of salt
 - [ ] 1 teaspoon turmeric
 - [ ] 1 teaspoon mustard seeds
@@ -26,10 +25,6 @@ tags:
 - [ ] 1 - 2 cup of coconut milk
 - [ ] 1 cup of water
 - [ ] 250 g red or yellow lentils
-
-### optional:
-
-### prepration time: 20-30'
 
 ### instruction (easy):
 - [ ] cook lentils, water, coconut milk, turmeric powder, and salt in large pan
@@ -43,14 +38,14 @@ tags:
 - [ ] not applicable
 
 
-
 ### chef bruno's pro tips:
 
 - dish relies heavily on curry leaves and coconut milk taste, aim for quality products
 - simple but very tasty recipe! no ginger, not much spices
 
-
-
 ### source
 
 oral tradition, sri lanka jungle
+
+### prepration time: 20-30'
+

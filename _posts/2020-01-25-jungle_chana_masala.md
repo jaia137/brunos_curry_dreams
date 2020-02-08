@@ -2,9 +2,8 @@
 title: "Jungle Chana Masala"
 date: 2020-01-25T15:34:30-04:00
 categories:
-  - curry
-tags:
   - main 
+tags:
   - south
   - vegan
   - jungle
@@ -38,13 +37,8 @@ tags:
 - [ ] 1 cup water
 - [ ] 1 cup fresh grated coconut or coconut milk
 - [ ] 200-300 grams of cooked chickpeas
+- [ ] optional: 1 small piece of stone flower (dagad phool)
 
-
-### optional:
-
-- [ ] 1 small piece of stone flower (dagad phool)
-
-### prepration time: 20-30'
 
 ### instruction (easy):
 - [ ] roast spices
@@ -60,10 +54,10 @@ tags:
 
 ### chef bruno's pro tips:
 
-- given the use of many spices, it may become an overload of tastes. this can be tackled by making the dish very spicy in contrast
-
-
+- given the use of many spices, it may become an overload of tastes. this can be contrasted by making the dish very spicy 
 
 ### source
 
 https://www.vegrecipesofindia.com/chana-masala-with-coconut/
+
+### prepration time: 20-30'

@@ -2,9 +2,8 @@
 title: "Yellow Dal"
 date: 2019-04-18T15:34:30-04:00
 categories:
-  - curry
-tags:
   - main 
+tags:
   - north
   - dal
   - vegan
@@ -30,11 +29,6 @@ tags:
 - [ ] soysauce to taste
 - [ ] fresh cilantro
 
-### optional:
-
-### prepration time: 20 -30'
-
-
 ### instruction (easy):
 - [ ] roast spices
 - [ ] add chopped onions, fry until golden
@@ -58,3 +52,5 @@ tags:
 ### source
 
 unknown
+
+### prepration time: 20 -30'

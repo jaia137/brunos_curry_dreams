@@ -2,9 +2,8 @@
 title: "Jungle Palak Sweet Potato"
 date: 2020-01-25T15:34:30-04:00
 categories:
-  - curry
-tags:
   - side 
+tags:
   - freestyle
   - vegan
   - jungle
@@ -17,18 +16,11 @@ tags:
 - [ ] 1 teaspoon of salt
 - [ ] 1 teaspoon fennel powder
 - [ ] 2-3 teaspoon curry madras (or alike)
+- [ ] 4-8 curry leaves (optional)
 - [ ] 1 - 2 cup of coconut milk
 - [ ] 1/2 cup of water
 - [ ] 250 g fresh or frozen spinach
 - [ ] 250 g sweet potatoes, cubed
-
-
-### optional:
-
-- [ ] 4-8 curry leaves 
-- [ ] agni masala instead of listed spices
-
-### prepration time: 20'
 
 ### instruction (easy):
 - [ ] mix coconut milk, water, salt and spices into small pan. cook for some minutes
@@ -45,9 +37,11 @@ tags:
 
 - sweetish dish, good contrast to spicy curries
 - be careful with the fennel powder, can be very dominant
-
-
+- use agni masala instead of listed spices
 
 ### source
 
 freestyle
+
+### prepration time: 20'
+

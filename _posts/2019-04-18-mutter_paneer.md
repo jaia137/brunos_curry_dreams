@@ -2,9 +2,8 @@
 title: "Mutter Paneer"
 date: 2019-04-18T15:34:30-04:00
 categories:
-  - curry
-tags:
   - main 
+tags:
   - north
   - paneer
   - slow
@@ -29,13 +28,7 @@ tags:
 - [ ] 250-400 g fresh paneer cubed
 - [ ] 1/4 cup of cream 
 - [ ] fresh cilantro
-
-### optional:
-- [ ] 1 bay leaf
-- [ ] 1 teaspoon fenugrek leaves to garnish
-
-### prepration time: 60+'
-
+- [ ] 1 bay leaf (optional)
 
 ### instruction (easy):
 - [ ] roast spices
@@ -59,3 +52,6 @@ tags:
 ### source
 
 unknown, tbd
+
+### prepration time: 60+'
+
