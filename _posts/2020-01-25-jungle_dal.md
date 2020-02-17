@@ -29,7 +29,7 @@ tags:
 ### instruction (easy):
 - [ ] cook lentils, water, coconut milk, turmeric powder, and salt in large pan
 - [ ] fry chopped onions until roasted in separate pan
-- [ ] add garlic, chilies, mustard seeds, curry leaves and fry
+- [ ] add garlic, chili, mustard seeds, curry leaves and fry
 - [ ] mix fried spices with lentils, cook until done
 - [ ] serve with dosa or rice, fresh cilantro, lemons
 
