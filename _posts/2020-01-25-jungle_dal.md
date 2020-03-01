@@ -15,15 +15,15 @@ tags:
 ### ingredients:
 
 - [ ] 2 tablespoon vegetable oil
-- [ ] 1 teaspoon of salt
+- [ ] 1 teaspoon salt
 - [ ] 1 teaspoon turmeric
 - [ ] 1 teaspoon mustard seeds
 - [ ] 8-12 curry leaves
 - [ ] 1 teaspoon chili powder or 1-2 red chilies
 - [ ] 1 large onion
 - [ ] 1 - 2 garlic
-- [ ] 1 - 2 cup of coconut milk
-- [ ] 1 cup of water
+- [ ] 1 - 2 cup coconut milk
+- [ ] 1 cup water
 - [ ] 250 g red or yellow lentils
 
 ### instruction (easy):

@@ -20,14 +20,14 @@ tags:
 - [ ] 1 inch cinnamon
 - [ ] 1/2 tablespoon cumin seeds
 - [ ] 1 tablespoon coriander seeds
-- [ ] 1 tablespoon of red chili powder
+- [ ] 1 tablespoon red chili powder
 - [ ] 2 to 3 cloves
 - [ ] 1 black cardamon
 - [ ] 2 green cardamon
 - [ ] 4 to 5 whole black pepper
 - [ ] 1/2 teaspoon turmeric powder
 - [ ] 1 pinch asafoetida
-- [ ] 2-4 strands of saffron
+- [ ] 2-4 strands saffron
 - [ ] 10 to 12 curry leaves
 - [ ] 1 green chili, slit
 - [ ] 1 medium onion 
@@ -36,12 +36,12 @@ tags:
 - [ ] 2-3 garlic 
 - [ ] 1 cup water
 - [ ] 1 cup fresh grated coconut or coconut milk
-- [ ] 200-300 grams of cooked chickpeas
+- [ ] 200-300 grams cooked chickpeas
 - [ ] optional: 1 small piece of stone flower (dagad phool)
 
 
 ### instruction (easy):
-- [ ] roast spices
+- [ ] fry spices
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies
 - [ ] add chickpeas, coconut (milk), water and ginger, cook until chickpeas are done

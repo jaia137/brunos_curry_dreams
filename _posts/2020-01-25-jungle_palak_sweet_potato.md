@@ -13,12 +13,12 @@ tags:
 
 ### ingredients:
 
-- [ ] 1 teaspoon of salt
+- [ ] 1 teaspoon salt
 - [ ] 1 teaspoon fennel powder
 - [ ] 2-3 teaspoon curry madras (or alike)
 - [ ] 4-8 curry leaves (optional)
-- [ ] 1 - 2 cup of coconut milk
-- [ ] 1/2 cup of water
+- [ ] 1 - 2 cup coconut milk
+- [ ] 1/2 cup water
 - [ ] 250 g fresh or frozen spinach
 - [ ] 250 g sweet potatoes, cubed
 

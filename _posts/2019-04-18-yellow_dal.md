@@ -14,7 +14,7 @@ tags:
 ### ingredients:
 
 - [ ] 3 tablespoon vegetable oil
-- [ ] 1 teaspoon of salt
+- [ ] 1 teaspoon salt
 - [ ] 1 teaspoon turmeric
 - [ ] 1/2 - 1 teaspoon garam masala
 - [ ] 1 teaspoon cilantro powder
@@ -23,14 +23,14 @@ tags:
 - [ ] 1 large onion
 - [ ] 1 - 2 garlic
 - [ ] 1 inch ginger
-- [ ] 1 - 2 cup of coconut milk
-- [ ] 1 cup of water
+- [ ] 1 - 2 cup coconut milk
+- [ ] 1 cup water
 - [ ] 250 g red or yellow lentils
 - [ ] soysauce to taste
 - [ ] fresh cilantro
 
 ### instruction (easy):
-- [ ] roast spices
+- [ ] fry spices
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies, make paste
 - [ ] add lentils, half of the coconut milk, water and ginger, cook until lentils are done
