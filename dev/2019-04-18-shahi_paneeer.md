@@ -13,7 +13,7 @@ tags:
 ### ingredients:
 
 - [ ] 3 tablespoon vegetable oil or ghee
-- [ ] 1 teaspoon of salt
+- [ ] 1 teaspoon salt, more to taste
 - [ ] 1 teaspoon turmeric
 - [ ] 1 teaspoon garam masala
 - [ ] 1.5 - 2 teaspoon cilantro powder
@@ -31,7 +31,7 @@ tags:
 - [ ] 1 bay leaf (optional)
 
 ### instruction (easy):
-- [ ] roast spices
+- [ ] fry spices
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies, make paste
 - [ ] add tomatoes, water and ginger, cook for 30+ minutes
@@ -46,12 +46,12 @@ tags:
 
 ### chef bruno's pro tips:
 
-- this is a classic, mild version of the mutter paneer. use dried fenugrek leaves to boost umami
+- cook the tomato base longer for favourable taste (sugo style) and texture
 - use soft tofu for a vegan variant
 
 ### source
 
 unknown, tbd
 
-### prepration time: 60+'
+### prepration time: 30+'
 

@@ -13,19 +13,19 @@ tags:
 ### ingredients:
 
 - [ ] 3 tablespoon vegetable oil or ghee
-- [ ] 1 teaspoon salt
+- [ ] 1 teaspoon salt, more to taste
 - [ ] 1 teaspoon turmeric
 - [ ] 1 teaspoon garam masala
 - [ ] 1.5 - 2 teaspoon cilantro powder
 - [ ] 1/2 teaspoon cumin powder
 - [ ] 1/2 teaspoon chili powder and/or 1-2 green chilies
-- [ ] 1 large onion
-- [ ] 1-2 garlic
+- [ ] 1 large onion, chopped
+- [ ] 1-2 garlic, crushed or finely chopped
 - [ ] 1 inch ginger
 - [ ] 1 cup chopped/crushed tomato
 - [ ] 1-2 cup water
-- [ ] 1 cup peas
 - [ ] 250-400 g fresh paneer cubed
+- [ ] 1 cup peas
 - [ ] 1/4 cup cream 
 - [ ] fresh cilantro
 - [ ] 1 bay leaf (optional)
@@ -47,11 +47,12 @@ tags:
 ### chef bruno's pro tips:
 
 - this is a classic, mild version of the mutter paneer. use dried fenugrek leaves to boost umami
+- cook the tomato base longer for favourable taste (sugo style) and texture
 - use soft tofu for a vegan variant
 
 ### source
 
-unknown, tbd
+unknown
 
-### prepration time: 60+'
+### prepration time: 30+'
 

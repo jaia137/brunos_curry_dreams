@@ -13,7 +13,7 @@ tags:
 
 ### ingredients:
 
-- [ ] 1 teaspoon salt
+- [ ] 1 teaspoon salt, more to taste
 - [ ] 1 teaspoon fennel powder
 - [ ] 2-3 teaspoon curry madras (or alike)
 - [ ] 4-8 curry leaves (optional)

@@ -14,14 +14,14 @@ tags:
 ### ingredients:
 
 - [ ] 3 tablespoon vegetable oil
-- [ ] 1 teaspoon salt
+- [ ] 1 teaspoon salt, more to taste
 - [ ] 1 teaspoon turmeric
 - [ ] 1/2 - 1 teaspoon garam masala
 - [ ] 1 teaspoon cilantro powder
 - [ ] 1 - 2 teaspoon cumin powder
 - [ ] 1/2 teaspoon chili powder or 1-2 red chilies
-- [ ] 1 large onion
-- [ ] 1 - 2 garlic
+- [ ] 1 large onion, chopped
+- [ ] 1 - 2 garlic, crushed or finely chopped
 - [ ] 1 inch ginger
 - [ ] 1 - 2 cup coconut milk
 - [ ] 1 cup water
@@ -53,4 +53,4 @@ tags:
 
 unknown
 
-### prepration time: 20 -30'
+### prepration time: 20-30'
