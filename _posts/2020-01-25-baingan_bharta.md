@@ -33,7 +33,7 @@ tags:
 
 
 
-### instruction (easy):
+### instructions:
 - [ ] fry spices
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies, make paste
@@ -42,17 +42,13 @@ tags:
 - [ ] add eggplant and peas, salt, cook until done, add cilantro
 - [ ] serve with naan or rice, fresh cilantro, raita, lemons
 
-
-### instruction (epic):
-- [ ] tbd, see source
-
-
 ### chef bruno's pro tips:
 
 - cook the tomato base longer for favourable taste (sugo style) and texture
+
+### prepration time: 20-30'
 
 ### source
 
 https://www.spiceupthecurry.com/baingan-bharta-recipe/
 
-### prepration time: 20-30'

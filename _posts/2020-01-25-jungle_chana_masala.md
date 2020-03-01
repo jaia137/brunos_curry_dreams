@@ -40,7 +40,7 @@ tags:
 - [ ] optional: 1 small piece of stone flower (dagad phool)
 
 
-### instruction (easy):
+### instructions:
 - [ ] fry spices
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies, stir
@@ -48,16 +48,15 @@ tags:
 - [ ] serve with dosa or rice, fresh cilantro, lemons
 
 
-### instruction (epic):
-- [ ] tbd, see source
-
 
 ### chef bruno's pro tips:
 
 - given the use of many spices, it may become an overload of tastes. this can be contrasted by making the dish very spicy 
 
+### prepration time: 30+'
+
 ### source
 
 https://www.vegrecipesofindia.com/chana-masala-with-coconut/
 
-### prepration time: 30+'
+

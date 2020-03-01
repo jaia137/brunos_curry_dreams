@@ -26,26 +26,23 @@ tags:
 - [ ] 1 cup water
 - [ ] 250 g red or yellow lentils
 
-### instruction (easy):
+### instructions:
 - [ ] cook lentils, water, coconut milk, turmeric powder, and salt in large pan
 - [ ] fry chopped onions until roasted in separate pan
 - [ ] add garlic, chili, mustard seeds, curry leaves and fry
 - [ ] mix fried spices with lentils, cook until done
 - [ ] serve with dosa or rice, fresh cilantro, lemons
 
-
-### instruction (epic):
-- [ ] not applicable
-
-
 ### chef bruno's pro tips:
 
 - dish relies heavily on curry leaves and coconut milk taste, aim for quality products
 - simple but very tasty recipe! no ginger, not much spices
 
+### prepration time: 20-30'
+
 ### source
 
 oral tradition, sri lanka jungle
 
-### prepration time: 20-30'
+
 

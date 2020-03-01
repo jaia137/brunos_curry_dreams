@@ -29,7 +29,7 @@ tags:
 - [ ] soysauce to taste
 - [ ] fresh cilantro
 
-### instruction (easy):
+### instructions:
 - [ ] fry spices
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies, make paste
@@ -37,20 +37,15 @@ tags:
 - [ ] add rest of coconut milk, salt, soysauce, and fresh cilantro to finish
 - [ ] serve with rice or naan
 
-
-### instruction (epic):
-- [ ] tbd
-
-
-
 ### chef bruno's pro tips:
 
 - careful with the soy sauce, can be very dominant
 - can also be served as soup, just use more liquid
 
+### prepration time: 20-30'
 
 ### source
 
 unknown
 
-### prepration time: 20-30'
+

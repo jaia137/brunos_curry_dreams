@@ -22,16 +22,11 @@ tags:
 - [ ] 250 g fresh or frozen spinach
 - [ ] 250 g sweet potatoes, cubed
 
-### instruction (easy):
+### instructions:
 - [ ] mix coconut milk, water, salt and spices into small pan. cook for some minutes
 - [ ] cook vegetables, remove remaining water
 - [ ] add sauce to vegetables, cook and stir for some minutes
 - [ ] serve with rice, or as side dish
-
-
-### instruction (epic):
-- [ ] not applicable
-
 
 ### chef bruno's pro tips:
 
@@ -39,9 +34,11 @@ tags:
 - be careful with the fennel powder, can be very dominant
 - use agni masala instead of listed spices
 
+### prepration time: 20'
+
 ### source
 
 freestyle
 
-### prepration time: 20'
+
 

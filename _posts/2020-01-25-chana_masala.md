@@ -28,14 +28,14 @@ tags:
 - [ ] 1 green chili, sliced 
 - [ ] 1 inch ginger
 - [ ] 1 - 1/2 cups of chopped tomato
-- [ ] 1 tablespoon of tomato paste (optional)
+- [ ] 1 tablespoon of tomato puree (optional)
 - [ ] 1 cup of water
 - [ ] 200-300g cooked or soaked chickpeas
 - [ ] 1/2 cup fresh cilantro, chopped
 - [ ] 2 teaspoon lemon juice, more to taste
 
 
-### instruction (easy):
+### instructions:
 - [ ] fry spices
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies, make paste
@@ -44,19 +44,16 @@ tags:
 - [ ] add lemon juice and cilantro, stir
 - [ ] serve with dosa, naan or rice, fresh cilantro, lemons
 
-
-### instruction (epic):
-- [ ] tbd, see source
-
-
 ### chef bruno's pro tips:
 
 - cook the tomato base longer for favourable taste (sugo style) and texture. both play with focus on tomato (add paste) and defocus from tomato (less tomato)
 - squeeze some chickpeas to thicken gravy
 - vary levels of cinnamon, connect with chili
 
+### prepration time: 30+'
+
 ### source
 
 https://minimalistbaker.com/easy-chana-masala/
 
-### prepration time: 30+'
+

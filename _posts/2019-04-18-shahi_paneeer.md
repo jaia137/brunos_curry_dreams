@@ -36,7 +36,7 @@ tags:
 - [ ] 3-4 tablespoon cream 
 - [ ] fresh cilantro
 
-### instruction (easy):
+### instructions:
 - [ ] fry spices
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies, make paste
@@ -46,19 +46,16 @@ tags:
 - [ ] add cream, salt, and fresh cilantro to finish
 - [ ] serve with rice or naan
 
-
-### instruction (epic):
-- [ ] tbd
-
-
 ### chef bruno's pro tips:
 
 - cook the tomato base longer for favourable taste (sugo style) and texture
 - use soft tofu for a vegan variant
 
+### prepration time: 30+'
+
 ### source
 
 https://www.spiceupthecurry.com/shahi-paneer-recipe-restaurant-style/
 
-### prepration time: 30+'
+
 
