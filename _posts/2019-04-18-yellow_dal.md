@@ -13,7 +13,7 @@ tags:
 
 ### ingredients:
 
-- [ ] 3 tablespoon vegetable oil
+- [ ] 2-3 tablespoon vegetable oil
 - [ ] 1 teaspoon salt, more to taste
 - [ ] 1 teaspoon turmeric
 - [ ] 1/2 - 1 teaspoon garam masala

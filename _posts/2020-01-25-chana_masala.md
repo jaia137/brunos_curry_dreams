@@ -12,7 +12,7 @@ tags:
 
 ### ingredients:
 
-- [ ] 3 tablespoon vegetable oil
+- [ ] 2-3 tablespoon vegetable oil
 - [ ] 1 teaspoon salt, more to taste
 - [ ] 1-2 bay leaf
 - [ ] 1 inch cinnamon stick
@@ -40,7 +40,7 @@ tags:
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies, make paste
 - [ ] add tomatoes water and ginger, cook for some time
-- [ ] add chickpeas, cook until done, 
+- [ ] add chickpeas, salt, cook until done 
 - [ ] add lemon juice and cilantro, stir
 - [ ] serve with dosa, naan or rice, fresh cilantro, lemons
 

@@ -13,7 +13,7 @@ tags:
 
 ### ingredients:
 
-- [ ] 3 tablespoon vegetable oil or ghee
+- [ ] 2-3 tablespoon vegetable oil or ghee
 - [ ] 1 teaspoon salt, more to taste
 - [ ] 1 small bay leaf
 - [ ] 1/2 teaspoon mustard seeds
@@ -44,7 +44,7 @@ tags:
 - [ ] fry spices
 - [ ] add chopped onions, fry until golden
 - [ ] add garlic and chilies, stir
-- [ ] add chickpeas, coconut (milk), water and ginger, cook until chickpeas are done
+- [ ] add chickpeas, tomatoes, coconut (milk), salt, water and ginger, cook until chickpeas are done
 - [ ] serve with dosa or rice, fresh cilantro, lemons
 
 

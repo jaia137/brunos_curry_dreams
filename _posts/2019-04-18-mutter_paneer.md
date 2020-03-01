@@ -12,7 +12,7 @@ tags:
 
 ### ingredients:
 
-- [ ] 3 tablespoon vegetable oil or ghee
+- [ ] 2-3 tablespoon vegetable oil or ghee
 - [ ] 1 teaspoon salt, more to taste
 - [ ] 1 teaspoon turmeric
 - [ ] 1 teaspoon garam masala
@@ -36,6 +36,7 @@ tags:
 - [ ] add garlic and chilies, make paste
 - [ ] add tomatoes, water and ginger, cook for 30+ minutes
 - [ ] blend the sauce, add peas, cook for 15 minutes
+- [ ] fry paneer cubes in separate pan, add paneers to sauce
 - [ ] add cream, salt, and fresh cilantro to finish
 - [ ] serve with rice or naan
 

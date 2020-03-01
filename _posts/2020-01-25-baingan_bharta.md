@@ -39,7 +39,7 @@ tags:
 - [ ] add garlic and chilies, make paste
 - [ ] add tomatoes, water and ginger, cook for some minutes
 - [ ] prepare eggplant: roast, steam, peal as you like
-- [ ] add eggplant and peas, cook until done, add cilantro
+- [ ] add eggplant and peas, salt, cook until done, add cilantro
 - [ ] serve with naan or rice, fresh cilantro, raita, lemons
 
 
