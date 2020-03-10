@@ -24,7 +24,7 @@ tags:
 - [ ] 1 - 2 garlic, crushed or finely chopped
 - [ ] 1 - 2 cup coconut milk
 - [ ] 1 cup water
-- [ ] 250 g red or yellow lentils
+- [ ] 250 g arhar dal, yellow, or red lentils
 
 ### instructions:
 - [ ] cook lentils, water, coconut milk, turmeric powder, and salt in large pan

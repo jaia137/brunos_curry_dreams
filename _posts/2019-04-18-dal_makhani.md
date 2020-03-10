@@ -21,7 +21,7 @@ tags:
 - [ ] 1 large onion
 - [ ] 2-4 garlic
 - [ ] 1 green chili
-- [ ] 1 inch gingersa
+- [ ] 1 inch ginger
 - [ ] 1-2 cup chopped or crushed tomato
 - [ ] 3 tablespoon tomato puree
 - [ ] 1-2 cup water
