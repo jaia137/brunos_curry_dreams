@@ -24,6 +24,9 @@ search: true
 
 # Build settings
 markdown: kramdown
+kramdown:
+    input: GFM
+    hard_wrap: false
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
