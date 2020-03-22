@@ -12,7 +12,7 @@ tags:
 
 ### ingredients:
 
-- 2 - 3 tablespoon vegetable oil
+- [ ] 2 - 3 tablespoon vegetable oil
 - [ ] 1 teaspoon salt, more to taste
 - [ ] 1 teaspoon  chili powder
 - [ ] 1 teaspoon coriander powder
