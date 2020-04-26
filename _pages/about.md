@@ -16,13 +16,13 @@ All recipes are at least lacto-vegetarian (paneer, cream or butter in some dishe
 
 **Seven cooking steps**
 
-1) Prepare and fry spices. Don't burn them, watch carefully.
-2) Add onion and fry until golden. Some recipes might want to conserve the taste of fresh onions so not much frying is needed then.
-3) Add garlic, chili peppers, further spices and quickly fry them.
-4) Make paste - not a "grinded" paste unless indicated. Simply finish steps 1-3 by collecting all elements before proceeding with the actual cooking. This "paste" could also be conserved for later or mobile curry action.
-5) Add water, tomatoes, coconut milk etc. to start the cooking phase. In the case of tomato base, this may take a while and builds the fundamental taste of the sauce.
-6) Add "main" ingredient like lentils, beans or vegetables. Cook them until done. They may also be cooked separately, as in many original recipes. Still, make sure to simmer these ingredients for some minutes in any scenario.
-7) This is the phase of final touches: herbs (cilantro, fenugreek leaves), cream and butter or alternatives, salt to taste, lemon juice, or paneer etc. will be added here. Stir it up well for a last time and taste it to perfection.
+1. Prepare and fry spices. Don't burn them, watch carefully.
+2. Add onion and fry until golden. Some recipes might want to conserve the taste of fresh onions so not much frying is needed then.
+3. Add garlic, chili peppers, further spices and quickly fry them.
+4. Make spice paste - not a "grinded" paste unless indicated. Simply finish steps 1-3 by collecting all elements before proceeding with the actual cooking. This "paste" could also be conserved for later or mobile curry action.
+5. Add water, tomatoes, coconut milk etc. to start the cooking phase. In the case of tomato base, this may take a while and builds the fundamental taste of the sauce.
+6. Add "main" ingredient like lentils, beans or vegetables. Cook them until done. They may also be cooked separately, as in many original recipes. Still, make sure to simmer these ingredients for some minutes in any scenario.
+7. This is the phase of final touches: herbs (cilantro, fenugreek leaves), cream and butter or alternatives, salt to taste, lemon juice, or paneer etc. will be added here. Stir it up well for a last time and taste it to perfection.
 
 **Remarks**
 
