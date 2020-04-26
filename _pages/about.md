@@ -27,7 +27,7 @@ All recipes are at least lacto-vegetarian (paneer, cream or butter in some dishe
 **Remarks**
 
 - Teaspoon (tsp) and tablespoon (tbsp) dosages are level (German: "gestrichen") assuming high quality spices and ingredients. 
-- High quality, fresh, ideally organic spices are recommended. Store them properly.
+- High quality, fresh, ideally organic spices are recommended. Store them properly. This is obviously also true for any other ingredient.
 - Recipes are based on neutral vegetable oil (high oleic) to approximate vegan standards whenever possible. Alternatively, ghee can be used. Amounts indicated are on the lower end, more oil can be added if spice paste is too sticky. Generally, oil carries taste which might be relevant in recipes where no additional fat is added.
 - Amounts of water are also reference values and certainly good to start. More water may need to be added in the cooking process as common in reduction cooking.
 - Salt dosage is also on the lower end, add some more to taste at the end of the cooking process if needed. Salt can be added at any step of the cooking process.
