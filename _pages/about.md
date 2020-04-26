@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-## Mission
+**Mission**
 
 This is a collection of my cultivated curry recipes which are adapted to European cooking technology and style. In practice, this means
 - "a curry a pan" (with some exceptions)
@@ -11,11 +11,12 @@ This is a collection of my cultivated curry recipes which are adapted to Europea
 - original recipes or sources are linked for more extensive/authentic cooking style and general reference
 - taste and spice is adapted: e.g. less garlic and chili
 
-## Seven cooking steps
+**Seven cooking steps**
 
-1)
+1) Prepare and fry spices. Don't burn them, watch carefully
+2) add onion and fry until golden. 
 
-## Remarks
+**Remarks**
 
 - teaspoon and tablespoon dosages are level (German: "gestrichen") assuming high quality spices and ingredients
 - get high quality, fresh, ideally organic spices. store them properly
