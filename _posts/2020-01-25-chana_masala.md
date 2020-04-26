@@ -46,7 +46,7 @@ tags:
 
 ### chef bruno's pro tips:
 
-- cook the tomato base longer for favourable taste (sugo style) and texture. both play with focus on tomato (add paste) and defocus from tomato (less tomato)
+- cook the tomato base as long as possible for favourable taste (sugo style) and texture. both play with focus on tomato (add paste) and defocus from tomato (less tomato)
 - squeeze some chickpeas to thicken gravy
 - vary levels of cinnamon, connect with chili
 

@@ -42,7 +42,7 @@ tags:
 
 ### chef bruno's pro tips:
 
-- cook the tomato base longer for favourable taste (sugo style) and texture
+- cook the tomato base as long as possible for favourable taste (sugo style) and texture
 - refresh the ginger in the finish
 - vegan option: don't use or substitute cream and butter. in any case, vegan lentils are more on the dark side
 

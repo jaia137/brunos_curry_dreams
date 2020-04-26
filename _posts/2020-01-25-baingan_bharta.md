@@ -44,7 +44,8 @@ tags:
 
 ### chef bruno's pro tips:
 
-- cook the tomato base longer for favourable taste (sugo style) and texture
+- cook the tomato base as long as possible for favourable taste (sugo style) and texture
+- eggplant can be bitter - some bitterness is part of the concept. 
 
 ### prepration time: 20-30'
 

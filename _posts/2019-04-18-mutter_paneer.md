@@ -43,7 +43,7 @@ tags:
 ### chef bruno's pro tips:
 
 - this is a classic, mild version of the mutter paneer. use dried fenugrek leaves to boost umami
-- cook the tomato base longer for favourable taste (sugo style) and texture
+- cook the tomato base as long as possible for favourable taste (sugo style) and texture
 - use soft tofu for a vegan variant
 
 ### prepration time: 30+'
