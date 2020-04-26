@@ -23,3 +23,9 @@ Sauce
 
 
 ## Tag system
+
+
+
+## resources
+
+https://jekyllrb.com/docs/configuration/markdown/
