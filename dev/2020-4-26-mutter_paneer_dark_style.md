@@ -1,0 +1,56 @@
+---
+title: "Chana Dal"
+date: 2019-04-18T15:34:30-04:00
+categories:
+  - main 
+tags:
+  - north
+  - dal
+  - slow
+
+---
+
+### ingredients:
+
+<input type="checkbox"> 2 - 3 tbsp vegetable oil
+<input type="checkbox"> 1 tsp salt, more to taste
+<input type="checkbox"> 1 tsp cumin seeds 
+<input type="checkbox"> 1 tsp coriander powder
+<input type="checkbox"> 1 tsp dry mango poder (amchur)
+<input type="checkbox"> 1/2 tsp red chili powder
+<input type="checkbox"> 1/2 tsp garam masala 
+<input type="checkbox"> 1/2 turmeric powder 
+<input type="checkbox"> 1 tsp dried fenugreek leaves, crushed 
+<input type="checkbox"> 1 pinch asafoetida
+<input type="checkbox"> 1 medium onion
+<input type="checkbox"> 2-4 garlic
+<input type="checkbox"> 1 green chili
+<input type="checkbox"> 1 inch ginger
+<input type="checkbox"> 1-2 cup chopped or crushed tomato
+<input type="checkbox"> 1-2 cup water
+<input type="checkbox"> 250 g arhar dal, yellow, or red lentils
+
+### instructions:
+<input type="checkbox"> fry spices
+<input type="checkbox"> add chopped onions, fry until golden
+<input type="checkbox"> add garlic and chilies, make paste
+<input type="checkbox"> add tomatoes, water and ginger, cook for 15+ minutes
+<input type="checkbox"> add lentils, cook until done
+<input type="checkbox"> add fresh cilantro to finish, garnish
+<input type="checkbox"> serve with rice or naan
+
+### chef bruno's pro tips:
+
+- cook the tomato base longer for favourable taste (sugo style) and texture
+- refresh the ginger in the finish
+- heavily depending on amchur powder taste for authenticity
+
+
+### prepration time: 30+'
+
+### source
+
+https://www.vegrecipesofindia.com/chana-dal-recipe-chana-dal/
+
+
+
