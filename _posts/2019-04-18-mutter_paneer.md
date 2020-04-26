@@ -12,33 +12,33 @@ tags:
 
 ### ingredients:
 
-- [ ] 2-3 tablespoon vegetable oil or ghee
-- [ ] 1 teaspoon salt, more to taste
-- [ ] 1 teaspoon turmeric
-- [ ] 1 teaspoon garam masala
-- [ ] 1.5 - 2 teaspoon cilantro powder
-- [ ] 1/2 teaspoon cumin powder
-- [ ] 1/2 teaspoon chili powder and/or 1-2 green chilies
-- [ ] 1 large onion, chopped
-- [ ] 1-2 garlic, crushed or finely chopped
-- [ ] 1 inch ginger
-- [ ] 1 cup chopped/crushed tomato
-- [ ] 1-2 cup water
-- [ ] 250-400 g fresh paneer cubed
-- [ ] 1 cup peas
-- [ ] 1/4 cup cream 
-- [ ] fresh cilantro
-- [ ] 1 bay leaf (optional)
+<input type="checkbox"> 2-3 tbsp vegetable oil or ghee
+<input type="checkbox"> 1 tsp salt, more to taste
+<input type="checkbox"> 1 tsp turmeric
+<input type="checkbox"> 1 tsp garam masala
+<input type="checkbox"> 1.5 - 2 tsp cilantro powder
+<input type="checkbox"> 1/2 tsp cumin powder
+<input type="checkbox"> 1/2 tsp chili powder and/or 1-2 green chilies
+<input type="checkbox"> 1 large onion, chopped
+<input type="checkbox"> 1-2 garlic, crushed or finely chopped
+<input type="checkbox"> 1 inch ginger
+<input type="checkbox"> 1 cup chopped/crushed tomato
+<input type="checkbox"> 1-2 cup water
+<input type="checkbox"> 250-400 g fresh paneer cubed
+<input type="checkbox"> 1 cup peas
+<input type="checkbox"> 1/4 cup cream 
+<input type="checkbox"> fresh cilantro
+<input type="checkbox"> 1 bay leaf (optional)
 
 ### instructions:
-- [ ] fry spices
-- [ ] add chopped onions, fry until golden
-- [ ] add garlic and chilies, make paste
-- [ ] add tomatoes, water and ginger, cook for 30+ minutes
-- [ ] blend the sauce, add peas, cook for 15 minutes
-- [ ] fry paneer cubes in separate pan, add paneers to sauce
-- [ ] add cream, salt, and fresh cilantro to finish
-- [ ] serve with rice or naan
+<input type="checkbox"> fry spices
+<input type="checkbox"> add chopped onions, fry until golden
+<input type="checkbox"> add garlic and chilies, make paste
+<input type="checkbox"> add tomatoes, water and ginger, cook for 30+ minutes
+<input type="checkbox"> blend the sauce, add peas, cook for 15 minutes
+<input type="checkbox"> fry paneer cubes in separate pan, add paneers to sauce
+<input type="checkbox"> add cream, salt, and fresh cilantro to finish
+<input type="checkbox"> serve with rice or naan
 
 ### chef bruno's pro tips:
 

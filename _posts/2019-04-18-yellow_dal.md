@@ -13,29 +13,29 @@ tags:
 
 ### ingredients:
 
-- [ ] 2-3 tablespoon vegetable oil
-- [ ] 1 teaspoon salt, more to taste
-- [ ] 1 teaspoon turmeric
-- [ ] 1/2 - 1 teaspoon garam masala
-- [ ] 1 teaspoon cilantro powder
-- [ ] 1 - 2 teaspoon cumin powder
-- [ ] 1/2 teaspoon chili powder or 1-2 red chilies
-- [ ] 1 large onion, chopped
-- [ ] 1 - 2 garlic, crushed or finely chopped
-- [ ] 1 inch ginger
-- [ ] 1 - 2 cup coconut milk
-- [ ] 1 cup water
-- [ ] 250 g red or yellow lentils
-- [ ] soysauce to taste
-- [ ] fresh cilantro
+<input type="checkbox"> 2-3 tbsp vegetable oil
+<input type="checkbox"> 1 tsp salt, more to taste
+<input type="checkbox"> 1 tsp turmeric
+<input type="checkbox"> 1/2 - 1 tsp garam masala
+<input type="checkbox"> 1 tsp cilantro powder
+<input type="checkbox"> 1 - 2 tsp cumin powder
+<input type="checkbox"> 1/2 tsp chili powder or 1-2 red chilies
+<input type="checkbox"> 1 large onion, chopped
+<input type="checkbox"> 1 - 2 garlic, crushed or finely chopped
+<input type="checkbox"> 1 inch ginger
+<input type="checkbox"> 1 - 2 cup coconut milk
+<input type="checkbox"> 1 cup water
+<input type="checkbox"> 250 g red or yellow lentils
+<input type="checkbox"> soysauce to taste
+<input type="checkbox"> fresh cilantro
 
 ### instructions:
-- [ ] fry spices
-- [ ] add chopped onions, fry until golden
-- [ ] add garlic and chilies, make paste
-- [ ] add lentils, half of the coconut milk, water and ginger, cook until lentils are done
-- [ ] add rest of coconut milk, salt, soysauce, and fresh cilantro to finish
-- [ ] serve with rice or naan
+<input type="checkbox"> fry spices
+<input type="checkbox"> add chopped onions, fry until golden
+<input type="checkbox"> add garlic and chilies, make paste
+<input type="checkbox"> add lentils, half of the coconut milk, water and ginger, cook until lentils are done
+<input type="checkbox"> add rest of coconut milk, salt, soysauce, and fresh cilantro to finish
+<input type="checkbox"> serve with rice or naan
 
 ### chef bruno's pro tips:
 

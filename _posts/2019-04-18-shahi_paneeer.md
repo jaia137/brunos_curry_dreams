@@ -12,39 +12,39 @@ tags:
 
 ### ingredients:
 
-- [ ] 2 - 3 tablespoon vegetable oil
-- [ ] 1 teaspoon salt, more to taste
-- [ ] 1 teaspoon  chili powder
-- [ ] 1 teaspoon coriander powder
-- [ ] 1/4 teaspoon black pepper powder
-- [ ] 1/2 teaspoon garam masala
-- [ ] 1 teaspoon fenugreek leaves, lightly crushed
-- [ ] 5-6 strands saffron
-- [ ] 1/8 teaspoon green cardamom powder
-- [ ] 2 green cardamons
-- [ ] 2 cloves
-- [ ] 1/2 - 1 inch cinnamon stick
-- [ ] 1 bay leaf (optional)
-- [ ] 1 large onion
-- [ ] 1-2 garlic
-- [ ] 1 green chili
-- [ ] 1 inch ginger
-- [ ] 1 cup chopped or crushed tomato
-- [ ] 1 cup water
-- [ ] 1/4 - 1/2 cup of soaked and crushed cashews or 2-4 tablespoons of cashew paste
-- [ ] 250-400 g fresh paneer cubed
-- [ ] 3-4 tablespoon cream 
-- [ ] fresh cilantro
+<input type="checkbox"> 2 - 3 tbsp vegetable oil
+<input type="checkbox"> 1 tsp salt, more to taste
+<input type="checkbox"> 1 tsp  chili powder
+<input type="checkbox"> 1 tsp coriander powder
+<input type="checkbox"> 1/4 tsp black pepper powder
+<input type="checkbox"> 1/2 tsp garam masala
+<input type="checkbox"> 1 tsp fenugreek leaves, lightly crushed
+<input type="checkbox"> 5-6 strands saffron
+<input type="checkbox"> 1/8 tsp green cardamom powder
+<input type="checkbox"> 2 green cardamons
+<input type="checkbox"> 2 cloves
+<input type="checkbox"> 1/2 - 1 inch cinnamon stick
+<input type="checkbox"> 1 bay leaf (optional)
+<input type="checkbox"> 1 large onion
+<input type="checkbox"> 1-2 garlic
+<input type="checkbox"> 1 green chili
+<input type="checkbox"> 1 inch ginger
+<input type="checkbox"> 1 cup chopped or crushed tomato
+<input type="checkbox"> 1 cup water
+<input type="checkbox"> 1/4 - 1/2 cup of soaked and crushed cashews or 2-4 tbsps of cashew paste
+<input type="checkbox"> 250-400 g fresh paneer cubed
+<input type="checkbox"> 3-4 tbsp cream 
+<input type="checkbox"> fresh cilantro
 
 ### instructions:
-- [ ] fry spices
-- [ ] add chopped onions, fry until golden
-- [ ] add garlic and chilies, make paste
-- [ ] add tomatoes, water and ginger, cook for 30+ minutes
-- [ ] add cashews, blend the sauce,  cook for some minutes
-- [ ] fry paneer cubes in separate pan, add paneers to sauce
-- [ ] add cream, salt, and fresh cilantro to finish
-- [ ] serve with rice or naan
+<input type="checkbox"> fry spices
+<input type="checkbox"> add chopped onions, fry until golden
+<input type="checkbox"> add garlic and chilies, make paste
+<input type="checkbox"> add tomatoes, water and ginger, cook for 30+ minutes
+<input type="checkbox"> add cashews, blend the sauce,  cook for some minutes
+<input type="checkbox"> fry paneer cubes in separate pan, add paneers to sauce
+<input type="checkbox"> add cream, salt, and fresh cilantro to finish
+<input type="checkbox"> serve with rice or naan
 
 ### chef bruno's pro tips:
 

@@ -13,20 +13,20 @@ tags:
 
 ### ingredients:
 
-- [ ] 1 teaspoon salt, more to taste
-- [ ] 1 teaspoon fennel powder
-- [ ] 2-3 teaspoon curry madras (or alike)
-- [ ] 4-8 curry leaves (optional)
-- [ ] 1 - 2 cup coconut milk
-- [ ] 1/2 cup water
-- [ ] 250 g fresh or frozen spinach
-- [ ] 250 g sweet potatoes, cubed
+<input type="checkbox"> 1 tsp salt, more to taste
+<input type="checkbox"> 1 tsp fennel powder
+<input type="checkbox"> 2-3 tsp curry madras (or alike)
+<input type="checkbox"> 4-8 curry leaves (optional)
+<input type="checkbox"> 1 - 2 cup coconut milk
+<input type="checkbox"> 1/2 cup water
+<input type="checkbox"> 250 g fresh or frozen spinach
+<input type="checkbox"> 250 g sweet potatoes, cubed
 
 ### instructions:
-- [ ] mix coconut milk, water, salt and spices into small pan. cook for some minutes
-- [ ] cook vegetables, remove remaining water
-- [ ] add sauce to vegetables, cook and stir for some minutes
-- [ ] serve with rice, or as side dish
+<input type="checkbox"> mix coconut milk, water, salt and spices into small pan. cook for some minutes
+<input type="checkbox"> cook vegetables, remove remaining water
+<input type="checkbox"> add sauce to vegetables, cook and stir for some minutes
+<input type="checkbox"> serve with rice, or as side dish
 
 ### chef bruno's pro tips:
 

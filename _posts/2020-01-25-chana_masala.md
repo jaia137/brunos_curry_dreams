@@ -12,37 +12,37 @@ tags:
 
 ### ingredients:
 
-- [ ] 2-3 tablespoon vegetable oil
-- [ ] 1 teaspoon salt, more to taste
-- [ ] 1-2 bay leaf
-- [ ] 1 inch cinnamon stick
-- [ ] 1/4 teaspoon of cinnamon powder
-- [ ] 1 teaspoon cumin powder
-- [ ] 1 teaspoon garam masala
-- [ ] 1 teaspoon ground coriander
-- [ ] 1 teaspoon chili powder
-- [ ] 1 teaspoon ground turmeric
-- [ ] 2-3 teaspoon coconut sugar
-- [ ] 1 medium onion, chopped
-- [ ] 1-3 cloves garlic, crushed or finely chopped
-- [ ] 1 green chili, sliced 
-- [ ] 1 inch ginger
-- [ ] 1 - 1/2 cups of chopped tomato
-- [ ] 1 tablespoon of tomato puree (optional)
-- [ ] 1 cup of water
-- [ ] 200-300g cooked or soaked chickpeas
-- [ ] 1/2 cup fresh cilantro, chopped
-- [ ] 2 teaspoon lemon juice, more to taste
+<input type="checkbox"> 2-3 tbsp vegetable oil
+<input type="checkbox"> 1 tsp salt, more to taste
+<input type="checkbox"> 1-2 bay leaf
+<input type="checkbox"> 1 inch cinnamon stick
+<input type="checkbox"> 1/4 tsp of cinnamon powder
+<input type="checkbox"> 1 tsp cumin powder
+<input type="checkbox"> 1 tsp garam masala
+<input type="checkbox"> 1 tsp ground coriander
+<input type="checkbox"> 1 tsp chili powder
+<input type="checkbox"> 1 tsp ground turmeric
+<input type="checkbox"> 2-3 tsp coconut sugar
+<input type="checkbox"> 1 medium onion, chopped
+<input type="checkbox"> 1-3 cloves garlic, crushed or finely chopped
+<input type="checkbox"> 1 green chili, sliced 
+<input type="checkbox"> 1 inch ginger
+<input type="checkbox"> 1 - 1/2 cups of chopped tomato
+<input type="checkbox"> 1 tbsp of tomato puree (optional)
+<input type="checkbox"> 1 cup of water
+<input type="checkbox"> 200-300g cooked or soaked chickpeas
+<input type="checkbox"> 1/2 cup fresh cilantro, chopped
+<input type="checkbox"> 2 tsp lemon juice, more to taste
 
 
 ### instructions:
-- [ ] fry spices
-- [ ] add chopped onions, fry until golden
-- [ ] add garlic and chilies, make paste
-- [ ] add tomatoes water and ginger, cook for some time
-- [ ] add chickpeas, salt, cook until done 
-- [ ] add lemon juice and cilantro, stir
-- [ ] serve with dosa, naan or rice, fresh cilantro, lemons
+<input type="checkbox"> fry spices
+<input type="checkbox"> add chopped onions, fry until golden
+<input type="checkbox"> add garlic and chilies, make paste
+<input type="checkbox"> add tomatoes water and ginger, cook for some time
+<input type="checkbox"> add chickpeas, salt, cook until done 
+<input type="checkbox"> add lemon juice and cilantro, stir
+<input type="checkbox"> serve with dosa, naan or rice, fresh cilantro, lemons
 
 ### chef bruno's pro tips:
 

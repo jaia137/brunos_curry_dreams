@@ -14,24 +14,24 @@ tags:
 
 ### ingredients:
 
-- [ ] 2 tablespoon vegetable oil
-- [ ] 1 teaspoon salt, more to taste
-- [ ] 1 teaspoon turmeric
-- [ ] 1 teaspoon mustard seeds
-- [ ] 8-12 curry leaves
-- [ ] 1 teaspoon chili powder or 1-2 red chilies
-- [ ] 1 large onion
-- [ ] 1 - 2 garlic, crushed or finely chopped
-- [ ] 1 - 2 cup coconut milk
-- [ ] 1 cup water
-- [ ] 250 g arhar dal, yellow, or red lentils
+<input type="checkbox"> 2 tbsp vegetable oil
+<input type="checkbox"> 1 tsp salt, more to taste
+<input type="checkbox"> 1 tsp turmeric
+<input type="checkbox"> 1 tsp mustard seeds
+<input type="checkbox"> 8-12 curry leaves
+<input type="checkbox"> 1 tsp chili powder or 1-2 red chilies
+<input type="checkbox"> 1 large onion
+<input type="checkbox"> 1 - 2 garlic, crushed or finely chopped
+<input type="checkbox"> 1 - 2 cup coconut milk
+<input type="checkbox"> 1 cup water
+<input type="checkbox"> 250 g arhar dal, yellow, or red lentils
 
 ### instructions:
-- [ ] cook lentils, water, coconut milk, turmeric powder, and salt in large pan
-- [ ] fry chopped onions until roasted in separate pan
-- [ ] add garlic, chili, mustard seeds, curry leaves and fry
-- [ ] mix fried spices with lentils, cook until done
-- [ ] serve with dosa or rice, fresh cilantro, lemons
+<input type="checkbox"> cook lentils, water, coconut milk, turmeric powder, and salt in large pan
+<input type="checkbox"> fry chopped onions until roasted in separate pan
+<input type="checkbox"> add garlic, chili, mustard seeds, curry leaves and fry
+<input type="checkbox"> mix fried spices with lentils, cook until done
+<input type="checkbox"> serve with dosa or rice, fresh cilantro, lemons
 
 ### chef bruno's pro tips:
 

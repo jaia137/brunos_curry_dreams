@@ -12,33 +12,33 @@ tags:
 
 ### ingredients:
 
-- [ ] 2 - 3 tablespoon vegetable oil
-- [ ] 1 teaspoon salt, more to taste
-- [ ] 1 teaspoon cumin seeds coarsely ground
-- [ ] 1 teaspoon mild chili powder
-- [ ] 1/2 teaspoon garam masala 
-- [ ] 1 pinch asafoetida
-- [ ] 1 large onion
-- [ ] 2-4 garlic
-- [ ] 1 green chili
-- [ ] 1 inch ginger
-- [ ] 1-2 cup chopped or crushed tomato
-- [ ] 3 tablespoon tomato puree
-- [ ] 1-2 cup water
-- [ ] 250 g urad, green, brown or black lentils
-- [ ] 80-120 g soaked or cooked red kidney beans
-- [ ] 1/4 cup cream 
-- [ ] 20-50 g butter
-- [ ] 2 tablespoon cilantro
+<input type="checkbox"> 2 - 3 tbsp vegetable oil
+<input type="checkbox"> 1 tsp salt, more to taste
+<input type="checkbox"> 1 tsp cumin seeds coarsely ground
+<input type="checkbox"> 1 tsp mild chili powder
+<input type="checkbox"> 1/2 tsp garam masala 
+<input type="checkbox"> 1 pinch asafoetida
+<input type="checkbox"> 1 large onion
+<input type="checkbox"> 2-4 garlic
+<input type="checkbox"> 1 green chili
+<input type="checkbox"> 1 inch ginger
+<input type="checkbox"> 1-2 cup chopped or crushed tomato
+<input type="checkbox"> 3 tbsp tomato puree
+<input type="checkbox"> 1-2 cup water
+<input type="checkbox"> 250 g urad, green, brown or black lentils
+<input type="checkbox"> 80-120 g soaked or cooked red kidney beans
+<input type="checkbox"> 1/4 cup cream 
+<input type="checkbox"> 20-50 g butter
+<input type="checkbox"> 2 tbsp cilantro
 
 ### instructions:
-- [ ] fry spices
-- [ ] add chopped onions, fry until golden
-- [ ] add garlic and chilies, make paste
-- [ ] add tomatoes, water and ginger, cook for 15+ minutes
-- [ ] add lentils and beans, cook until done
-- [ ] add cream, butter, salt, and fresh cilantro to finish
-- [ ] serve with rice or naan
+<input type="checkbox"> fry spices
+<input type="checkbox"> add chopped onions, fry until golden
+<input type="checkbox"> add garlic and chilies, make paste
+<input type="checkbox"> add tomatoes, water and ginger, cook for 15+ minutes
+<input type="checkbox"> add lentils and beans, cook until done
+<input type="checkbox"> add cream, butter, salt, and fresh cilantro to finish
+<input type="checkbox"> serve with rice or naan
 
 ### chef bruno's pro tips:
 
