@@ -7,6 +7,7 @@ tags:
   - freestyle
   - vegan
   - jungle
+  - veggies
   - fast
 
 ---

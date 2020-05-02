@@ -1,5 +1,5 @@
 ---
-title: "Mutter Paneer"
+title: "Matar Paneer"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - main 
@@ -28,6 +28,7 @@ tags:
 <input type="checkbox"> 1 cup peas
 <input type="checkbox"> 1/4 cup cream 
 <input type="checkbox"> fresh cilantro
+<input type="checkbox"> 1/2 - 1 tsp dried fenugreek leaves, crushed  (optional)
 <input type="checkbox"> 1 bay leaf (optional)
 
 ### instructions:

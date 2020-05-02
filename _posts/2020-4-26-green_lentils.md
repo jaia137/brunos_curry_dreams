@@ -21,9 +21,9 @@ tags:
 <input type="checkbox"> 1/2 - 1 tsp chili powder
 <input type="checkbox"> 1 tsp of mustard seedss
 <input type="checkbox"> 1 pinch asafoetida 
-<input type="checkbox"> 6 to 10 curry leaves
+<input type="checkbox"> 6 - 10 curry leaves
 <input type="checkbox"> 1 medium  onion, chopped
-<input type="checkbox"> 1-2 garlic
+<input type="checkbox"> 1 - s2 garlic
 <input type="checkbox"> 1 green chili chopped or slit lengthwise
 <input type="checkbox"> 1/2 inch ginger
 <input type="checkbox"> 2 tomato, chopped

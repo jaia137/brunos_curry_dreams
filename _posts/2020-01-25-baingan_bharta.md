@@ -7,6 +7,8 @@ tags:
   - north
   - vegan
   - fast
+  - veggies
+
 
 ---
 

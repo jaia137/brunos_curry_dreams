@@ -32,9 +32,11 @@ All recipes are at least lacto-vegetarian (paneer, cream or butter in some dishe
 - Amounts of water are also reference values and certainly good to start. More water may need to be added in the cooking process as common in reduction cooking.
 - Salt dosage is also on the lower end, add some more to taste at the end of the cooking process if needed. Salt can be added at any step of the cooking process.
 - Beware of the spice: normal strength chili powder and green chili peppers (Jwala) are assumed. Take half of the dosage if you want to be on the safe side ;)
+- Ginger is usually grated (sharp grater) and garlic crushed for more convenient cooking procedures
+- Tomatoes can be fresh or canned/bottled, chopped or crushed. Some recipes profit from certain forms. Generally, fresh tomatoes produce a more neutral sauce while tomato paste boosts tomato taste in some recipes.
 - Vegan recipes can be filtered with the respective tag. Vegan options are listed in the vegetarian recipes. 
 - Most of the curries need some time after cooking to develop the intended or favourable taste. Not much can be done here except waiting and not serving the dishes too hot.
-- Always serve with fresh cilantro. Lemons and raita can help to defuse spiciness or generally reset your tongue
+- Always serve with fresh cilantro. Lemons and raita can help to defuse spiciness or generally reset your tongue.
 - A rice cooker is a wonderful machine.
 - Feel free to experiment and comment!
 
