@@ -34,6 +34,7 @@ All recipes are at least lacto-vegetarian (paneer, cream or butter in some dishe
 - Beware of the spice: normal strength chili powder and green chili peppers (Jwala) are assumed. Take half of the dosage if you want to be on the safe side ;)
 - Vegan recipes can be filtered with the respective tag. Vegan options are listed in the vegetarian recipes. 
 - Most of the curries need some time after cooking to develop the intended or favourable taste. Not much can be done here except waiting and not serving the dishes too hot.
+- Always serve with fresh cilantro. Lemons and raita can help to defuse spiciness or generally reset your tongue
 - A rice cooker is a wonderful machine.
 - Feel free to experiment and comment!
 

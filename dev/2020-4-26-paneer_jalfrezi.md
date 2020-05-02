@@ -4,6 +4,7 @@ date: 2020-04-26T15:34:30-04:00
 categories:
   - main 
 tags:
+  - north
   - paneer
   - slow
 
@@ -41,7 +42,7 @@ tags:
 ### chef bruno's pro tips:
 
 - bell pepper taste can be very dominant and can be contrasted by spiciness and/or the acid from the lemon juice
-- cook the tomato base as long as possible for favourable taste (sugo style) and texture
+- cook the tomato base for as long as possible for favourable taste (sugo style) and texture
 - use soft tofu for a vegan variant
 
 
