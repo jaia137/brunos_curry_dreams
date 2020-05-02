@@ -8,7 +8,6 @@ tags:
   - dal
   - vegan
   - jungle
-  - fast
 
 ---
 

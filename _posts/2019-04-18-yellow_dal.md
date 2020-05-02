@@ -7,7 +7,6 @@ tags:
   - north
   - dal
   - vegan
-  - fast
 
 ---
 

@@ -1,11 +1,10 @@
 ---
-title: "Green Lentils"
+title: "Green Dal"
 date: 2020-05-2T15:34:30-04:00
 categories:
   - main 
 tags:
   - dal
-  - slow
   - ayurvedic
 
 ---

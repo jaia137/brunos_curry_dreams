@@ -6,7 +6,6 @@ categories:
 tags:
   - north
   - vegan
-  - slow
 
 ---
 

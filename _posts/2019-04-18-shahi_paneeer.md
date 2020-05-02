@@ -6,8 +6,6 @@ categories:
 tags:
   - north
   - paneer
-  - slow
-
 ---
 
 ### ingredients:
@@ -49,6 +47,7 @@ tags:
 ### chef bruno's pro tips:
 
 - cook the tomato base as long as possible for favourable taste (sugo style) and texture
+- it is one of the most challenging recipes, hardly you will ever hit the perfect taste. expert stuff
 - use soft tofu for a vegan variant
 
 ### prepration time: 30+'

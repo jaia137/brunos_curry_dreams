@@ -6,8 +6,6 @@ categories:
 tags:
   - north
   - paneer
-  - slow
-
 ---
 
 ### ingredients:

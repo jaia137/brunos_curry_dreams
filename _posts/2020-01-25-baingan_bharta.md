@@ -2,11 +2,10 @@
 title: "Baingan Bharta"
 date: 2020-01-25T15:34:30-04:00
 categories:
-  - main 
+  - side 
 tags:
   - north
   - vegan
-  - fast
   - veggies
 
 

@@ -8,7 +8,6 @@ tags:
   - vegan
   - jungle
   - veggies
-  - fast
 
 ---
 

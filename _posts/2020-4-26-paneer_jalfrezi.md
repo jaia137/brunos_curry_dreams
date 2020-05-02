@@ -5,7 +5,6 @@ categories:
   - main 
 tags:
   - paneer
-  - slow
 
 ---
 

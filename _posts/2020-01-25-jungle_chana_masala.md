@@ -7,7 +7,6 @@ tags:
   - south
   - vegan
   - jungle
-  - slow
 
 ---
 
@@ -21,14 +20,14 @@ tags:
 <input type="checkbox"> 1/2 tbsp cumin seeds
 <input type="checkbox"> 1 tbsp coriander seeds
 <input type="checkbox"> 1 tbsp red chili powder
-<input type="checkbox"> 2 to 3 cloves
+<input type="checkbox"> 2 - 3 cloves
 <input type="checkbox"> 1 black cardamon
 <input type="checkbox"> 2 green cardamon
-<input type="checkbox"> 4 to 5 whole black pepper
+<input type="checkbox"> 4 - 5 whole black pepper
 <input type="checkbox"> 1/2 tsp turmeric powder
 <input type="checkbox"> 1 pinch asafoetida
 <input type="checkbox"> 2-4 strands saffron
-<input type="checkbox"> 10 to 12 curry leaves
+<input type="checkbox"> 10 - 12 curry leaves
 <input type="checkbox"> 1 medium onion 
 <input type="checkbox"> 2-3 garlic, crushed or finely chopped
 <input type="checkbox"> 1 green chili, slit

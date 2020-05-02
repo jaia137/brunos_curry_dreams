@@ -6,7 +6,6 @@ categories:
 tags:
   - north
   - paneer
-  - slow
 
 ---
 
