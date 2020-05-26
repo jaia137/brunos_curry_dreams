@@ -15,7 +15,7 @@ tags:
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 1 tsp cumin seeds coarsely ground
 <input type="checkbox"> 1 tsp mild chili powder
-<input type="checkbox"> 1/2 tsp garam masala 
+<input type="checkbox"> 1/2 tsp garam masala powder
 <input type="checkbox"> 1 pinch asafoetida
 <input type="checkbox"> 1 large onion
 <input type="checkbox"> 2-4 garlic

@@ -15,7 +15,7 @@ tags:
 <input type="checkbox"> 1 tsp  chili powder
 <input type="checkbox"> 1 tsp coriander powder
 <input type="checkbox"> 1/4 tsp black pepper powder
-<input type="checkbox"> 1/2 tsp garam masala
+<input type="checkbox"> 1/2 tsp garam masala powder
 <input type="checkbox"> 1 tsp fenugreek leaves, lightly crushed
 <input type="checkbox"> 5-6 strands saffron
 <input type="checkbox"> 1/8 tsp green cardamom powder

@@ -13,7 +13,7 @@ tags:
 <input type="checkbox"> 2-3 tbsp vegetable oil or ghee
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 1 tsp turmeric
-<input type="checkbox"> 1 tsp garam masala
+<input type="checkbox"> 1 tsp garam masala powder
 <input type="checkbox"> 1.5 - 2 tsp cilantro powder
 <input type="checkbox"> 1/2 tsp cumin powder
 <input type="checkbox"> 1/2 tsp chili powder and/or 1-2 green chilies

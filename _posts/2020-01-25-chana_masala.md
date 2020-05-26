@@ -17,7 +17,7 @@ tags:
 <input type="checkbox"> 1 inch cinnamon stick
 <input type="checkbox"> 1/4 tsp of cinnamon powder
 <input type="checkbox"> 1 tsp cumin powder
-<input type="checkbox"> 1 tsp garam masala
+<input type="checkbox"> 1 tsp garam masala powder
 <input type="checkbox"> 1 tsp ground coriander
 <input type="checkbox"> 1 tsp chili powder
 <input type="checkbox"> 1 tsp ground turmeric

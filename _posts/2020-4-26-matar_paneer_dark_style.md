@@ -15,7 +15,7 @@ tags:
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 1 tsp cumin powder 
 <input type="checkbox"> 2 tsp coriander powder
-<input type="checkbox"> 2 tsp garam masala
+<input type="checkbox"> 2 tsp garam masala powder
 <input type="checkbox"> 1/2 tsp red chili powder
 <input type="checkbox"> 1/2 tsp turmeric powder 
 <input type="checkbox"> 2 medium or 1 large onion
