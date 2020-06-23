@@ -24,6 +24,7 @@ tags:
 <input type="checkbox"> 1 inch ginger
 <input type="checkbox"> 1-2 cup chopped or crushed tomato
 <input type="checkbox"> 1-2 cup water
+<input type="checkbox"> 1-1.5 cup peas
 <input type="checkbox"> 250-400 g fresh paneer cubed
 <input type="checkbox"> 1-3 tbsp of cream
 <input type="checkbox"> 1/2 - 1 tsp dried fenugreek leaves, crushed  (optional)
@@ -36,6 +37,7 @@ tags:
 <input type="checkbox"> add chopped onions, fry for some seconds (onion taste to be preserved)
 <input type="checkbox"> add garlic and chilies, make paste
 <input type="checkbox"> add tomatoes, water and ginger, cook for 15+ minutes
+<input type="checkbox"> add peas, cook for some minutes
 <input type="checkbox"> fry paneer cubes in separate pan, add paneers to sauce
 <input type="checkbox"> add cream, fresh cilantro to finish
 <input type="checkbox"> serve with rice or naan
