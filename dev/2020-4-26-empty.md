@@ -55,7 +55,7 @@ tags:
 -
 
 
-### prepration time: XXX+'
+### preparation time: XXX+'
 
 ### source
 

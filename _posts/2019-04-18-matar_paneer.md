@@ -45,7 +45,7 @@ tags:
 - cook the tomato base as long as possible for favourable taste (sugo style) and texture
 - use soft tofu for a vegan variant
 
-### prepration time: 30+'
+### preparation time: 30+'
 
 ### source
 

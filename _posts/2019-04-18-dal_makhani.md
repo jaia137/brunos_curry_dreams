@@ -45,7 +45,7 @@ tags:
 - refresh the ginger in the finish
 - vegan option: don't use or substitute cream and butter. in any case, vegan lentils are more on the dark side
 
-### prepration time: 30+'
+### preparation time: 30+'
 
 ### source
 

@@ -49,7 +49,7 @@ tags:
 - squeeze some chickpeas to thicken gravy
 - vary levels of cinnamon, connect with chili
 
-### prepration time: 30+'
+### preparation time: 30+'
 
 ### source
 

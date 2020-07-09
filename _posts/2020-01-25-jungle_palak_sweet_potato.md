@@ -34,7 +34,7 @@ tags:
 - be careful with the fennel powder, can be very dominant
 - use agni masala instead of listed spices
 
-### prepration time: 20'
+### preparation time: 20'
 
 ### source
 

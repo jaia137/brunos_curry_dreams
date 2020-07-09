@@ -41,7 +41,7 @@ tags:
 - careful with the soy sauce, can be very dominant
 - can also be served as soup, just use more liquid
 
-### prepration time: 20-30'
+### preparation time: 20-30'
 
 ### source
 

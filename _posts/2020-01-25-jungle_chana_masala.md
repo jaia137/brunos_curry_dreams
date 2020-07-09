@@ -52,7 +52,7 @@ tags:
 
 - given the use of many spices, it may become an overload of tastes. this can be contrasted by making the dish very spicy 
 
-### prepration time: 30+'
+### preparation time: 30+'
 
 ### source
 

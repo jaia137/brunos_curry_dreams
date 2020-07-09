@@ -49,7 +49,7 @@ tags:
 - add some finely chopped veggies (carrots, celeriac, zucchini etc.) to add color and taste variety
 
 
-### prepration time: 30+'
+### preparation time: 30+'
 
 ### source
 

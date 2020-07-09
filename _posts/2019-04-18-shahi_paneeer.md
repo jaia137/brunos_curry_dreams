@@ -50,7 +50,7 @@ tags:
 - it is one of the most challenging recipes, hardly you will ever hit the perfect taste. expert stuff
 - use soft tofu for a vegan variant
 
-### prepration time: 30+'
+### preparation time: 30+'
 
 ### source
 

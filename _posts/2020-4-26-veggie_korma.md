@@ -62,7 +62,7 @@ veggies
 - 
 
 
-### prepration time: 30+'
+### preparation time: 30+'
 
 ### source
 

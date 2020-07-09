@@ -48,7 +48,7 @@ tags:
 - cook the tomato base as long as possible for favourable taste (sugo style) and texture
 - eggplant can be bitter - some bitterness is part of the concept. 
 
-### prepration time: 20-30'
+### preparation time: 20-30'
 
 ### source
 
