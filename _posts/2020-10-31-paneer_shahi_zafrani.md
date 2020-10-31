@@ -14,14 +14,12 @@ tags:
 ### ingredients:
 
 for making paste
-
 <input type="checkbox"> 1 medium onion
 <input type="checkbox"> 1/2 cup cashews
 <input type="checkbox"> 1 inch ginger
 <input type="checkbox"> 1 garlic
 
 for main pan phase 1
-
 <input type="checkbox"> 2 - 3 tablespoons vegetable oil
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 2 cloves
@@ -31,7 +29,6 @@ for main pan phase 1
 <input type="checkbox"> 1 bay leaf
 
 for main pan phase 2
-
 <input type="checkbox"> 1/2 cup yogurt
 <input type="checkbox"> 1/2 cup cream
 <input type="checkbox"> 2-4 strands of saffron
