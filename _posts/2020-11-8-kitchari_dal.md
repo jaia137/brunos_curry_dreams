@@ -25,6 +25,7 @@ tags:
 <input type="checkbox"> 1 tsp turmeric
 <input type="checkbox"> 1 tsp cumin powder
 <input type="checkbox"> 1 tsp coriander powder
+<input type="checkbox"> 1 tsp chili powder, fresh chili or more to taste
 <input type="checkbox"> 1 inch of ginger, grated
 <input type="checkbox"> 4-5 cups of water
 <input type="checkbox"> 250 g arhar dal, mung dal, yellow, or red lentils
