@@ -3,6 +3,8 @@ title: "Jungle Dal"
 date: 2020-01-25T15:34:30-04:00
 categories:
   - main 
+  - easy mode
+
 tags:
   - south
   - dal

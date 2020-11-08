@@ -3,6 +3,9 @@ title: "Baingan Bharta"
 date: 2020-01-25T15:34:30-04:00
 categories:
   - side 
+  - easy mode
+
+
 tags:
   - north
   - vegan
