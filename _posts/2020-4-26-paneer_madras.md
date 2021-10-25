@@ -19,6 +19,7 @@ tags:
 <input type="checkbox"> 2 - 4 tsb madras curry powder
 <input type="checkbox"> 1 - 2 cup coconut milk
 <input type="checkbox"> 2 - 4 tbsp coconut flakes
+<input type="checkbox"> 1/2 - 1 cup water
 <input type="checkbox"> 1 tsp chopped cilantro leaves
 <input type="checkbox"> 250-400 g fresh paneer cubed
 
@@ -27,7 +28,7 @@ tags:
 
 <input type="checkbox"> Fry mustard seeds until they pop
 <input type="checkbox"> Make onion paste, add and fry
-<input type="checkbox"> Add curry powder, coconut milk and flakes, salt, stir and cook
+<input type="checkbox"> Add curry powder, coconut milk and flakes, water, salt, stir and cook
 <input type="checkbox"> Fry and add paneer
 <input type="checkbox"> Add chopped cilantro to taste
 
@@ -36,6 +37,7 @@ tags:
 
 -highly dependent on madras curry powder quality and strength, adjust accordingly
 -balance sweet/sour: onion paste is rather sweet
+-flakes are used to thicken the sauce and texture, adjust accordingly
 
 
 ### preparation time: 15'
