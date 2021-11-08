@@ -2,7 +2,6 @@
 title: "Matar Paneer Dark Style"
 date: 2020-05-2T15:34:30-04:00
 categories:
-  - main 
   - easy mode
 
 tags:

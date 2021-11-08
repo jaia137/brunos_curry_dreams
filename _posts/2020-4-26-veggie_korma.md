@@ -2,7 +2,6 @@
 title: "Veggie Korma"
 date: 202-05-02T15:34:30-04:00
 categories:
-  - side 
   - challenge mode
 
 tags:

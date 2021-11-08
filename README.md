@@ -13,14 +13,6 @@ https://jaia137.github.io/brunos_curry_dreams/
 
 ## Category system
 
-Main
-Side
-Rice
-Bread
-Salad
-Sauce
-
-
 
 ## Tag system
 

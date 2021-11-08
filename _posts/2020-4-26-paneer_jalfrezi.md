@@ -1,8 +1,7 @@
 ---
 title: "Paneer Jalfrezi"
 date: 2020-04-26T15:34:30-04:00
-categories:
-  - main 
+categories: 
   - easy mode
 
 tags:

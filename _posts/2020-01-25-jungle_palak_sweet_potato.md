@@ -2,13 +2,13 @@
 title: "Jungle Palak Sweet Potato"
 date: 2020-01-25T15:34:30-04:00
 categories:
-  - side 
   - easy mode
+  - fast lane
 
 tags:
   - freestyle
   - vegan
-  - jungle
+  - south
   - veggies
 
 ---

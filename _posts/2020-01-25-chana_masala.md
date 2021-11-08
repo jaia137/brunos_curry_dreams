@@ -2,7 +2,6 @@
 title: "Chana Masala"
 date: 2020-01-25T15:34:30-04:00
 categories:
-  - main 
   - challenge mode
 
   
