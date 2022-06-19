@@ -13,7 +13,7 @@ tags:
 
 ### ingredients:
 
-<input type="checkbox"> 2 - 3 tbsp vegetable oil
+<input type="checkbox"> 2 - 4 tbsp vegetable oil
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 1 tsp cumin seeds coarsely ground
 <input type="checkbox"> 1 tsp mild chili powder

@@ -19,7 +19,7 @@ for making paste
 <input type="checkbox"> 1 garlic
 
 for main pan phase 1
-<input type="checkbox"> 2 - 3 tbsp vegetable oil
+<input type="checkbox"> 2 - 4 tbsp vegetable oil
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 2 cloves
 <input type="checkbox"> 4-6 black peppercorns (crush some)

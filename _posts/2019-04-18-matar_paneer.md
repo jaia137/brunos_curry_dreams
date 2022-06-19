@@ -12,7 +12,7 @@ tags:
 
 ### ingredients:
 
-<input type="checkbox"> 2-3 tbsp vegetable oil or ghee
+<input type="checkbox"> 2-4 tbsp vegetable oil or ghee
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 1 tsp turmeric
 <input type="checkbox"> 1 tsp garam masala powder

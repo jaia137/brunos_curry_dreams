@@ -13,7 +13,7 @@ tags:
 
 ### ingredients:
 
-<input type="checkbox"> 2 tbsp vegetable oil             
+<input type="checkbox"> 2 - 4 tbsp vegetable oil             
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 1 tsb black pepper, crushed
 <input type="checkbox"> 1 tsp fennel seeds

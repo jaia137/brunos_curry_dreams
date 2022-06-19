@@ -11,7 +11,7 @@ tags:
 
 ### ingredients:
 
-<input type="checkbox"> 2 - 3 tbsp vegetable oil
+<input type="checkbox"> 2 - 4 tbsp vegetable oil
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 1 tsp  chili powder
 <input type="checkbox"> 1 tsp coriander powder

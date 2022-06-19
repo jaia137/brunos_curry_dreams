@@ -13,7 +13,7 @@ tags:
 ### ingredients:
 
 paste/sauce
-<input type="checkbox"> 2 - 3 tbsp vegetable oil
+<input type="checkbox"> 2 - 4 tbsp vegetable oil
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 1/2 tsp cumin seeds
 <input type="checkbox"> 1/4 tsp turmeric powder

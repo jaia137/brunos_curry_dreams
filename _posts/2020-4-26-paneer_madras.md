@@ -16,7 +16,7 @@ tags:
 
 <input type="checkbox"> 2 tbsp vegetable oil
 <input type="checkbox"> 1 tsp salt, more to taste
-<input type="checkbox"> 1 tsp mustard 
+<input type="checkbox"> 1 tsp mustard seeds
 <input type="checkbox"> 1 small to medium onion
 <input type="checkbox"> 2 - 4 tsb madras curry powder
 <input type="checkbox"> 1 - 2 cup coconut milk
