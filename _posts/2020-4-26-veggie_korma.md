@@ -67,6 +67,5 @@ veggies
 
 ### source
 
-https://www.spiceupthecurry.com/veg-kurma-recipe-vegetable-korma/
-
+<a href="https://www.spiceupthecurry.com/veg-kurma-recipe-vegetable-korma/" target="_blank" >https://www.spiceupthecurry.com/veg-kurma-recipe-vegetable-korma/</a>
 

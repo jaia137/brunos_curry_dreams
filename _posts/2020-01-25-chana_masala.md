@@ -55,6 +55,5 @@ tags:
 
 ### source
 
-https://minimalistbaker.com/easy-chana-masala/
-
+<a href="https://minimalistbaker.com/easy-chana-masala/" target="_blank" >https://minimalistbaker.com/easy-chana-masala/</a>
 

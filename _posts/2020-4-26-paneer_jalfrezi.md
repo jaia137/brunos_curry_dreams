@@ -50,6 +50,5 @@ tags:
 
 ### source
 
-http://maunikagowardhan.co.uk/cook-in-a-curry/easy-paneer-jalfrezi-with-spices-chilli-and-peppers-for-jamies-food-tube/
-
+<a href="http://maunikagowardhan.co.uk/cook-in-a-curry/easy-paneer-jalfrezi-with-spices-chilli-and-peppers-for-jamies-food-tube/" target="_blank" >http://maunikagowardhan.co.uk/cook-in-a-curry/easy-paneer-jalfrezi-with-spices-chilli-and-peppers-for-jamies-food-tube/</a>
 

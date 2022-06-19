@@ -56,6 +56,5 @@ tags:
 
 ### source
 
-http://www.indische-lebensmittel-online.de/9080/ayurvedisches-gruene-linsen-curry-indische-linsengerichte/
-
+<a href="http://www.indische-lebensmittel-online.de/9080/ayurvedisches-gruene-linsen-curry-indische-linsengerichte/" target="_blank" >http://www.indische-lebensmittel-online.de/9080/ayurvedisches-gruene-linsen-curry-indische-linsengerichte/</a>
 

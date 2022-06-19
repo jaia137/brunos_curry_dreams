@@ -55,7 +55,6 @@ tags:
 
 ### source
 
-https://www.spiceupthecurry.com/shahi-paneer-recipe-restaurant-style/
-
+<a href="https://www.spiceupthecurry.com/shahi-paneer-recipe-restaurant-style/" target="_blank" >https://www.spiceupthecurry.com/shahi-paneer-recipe-restaurant-style/</a>
 
 

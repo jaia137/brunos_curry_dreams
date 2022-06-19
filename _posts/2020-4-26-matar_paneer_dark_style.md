@@ -55,6 +55,7 @@ tags:
 
 ### source
 
-https://www.thespruceeats.com/mutter-paneer-peas-cottage-cheese-curry-1957971
-
+<a href="https://www.thespruceeats.com/mutter-paneer-peas-cottage-cheese-curry-1957971
+" target="_blank" >https://www.thespruceeats.com/mutter-paneer-peas-cottage-cheese-curry-1957971
+</a>
 

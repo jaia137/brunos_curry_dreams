@@ -51,7 +51,7 @@ tags:
 
 ### source
 
-http://maunikagowardhan.co.uk/cook-in-a-curry/punjabi-dal-makhani/
-
+<a href="http://maunikagowardhan.co.uk/cook-in-a-curry/punjabi-dal-makhani/" target="_blank" >http://maunikagowardhan.co.uk/cook-in-a-curry/punjabi-dal-makhani/
+</a>
 
 

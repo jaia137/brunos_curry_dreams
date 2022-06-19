@@ -57,6 +57,5 @@ for main pan phase 2
 
 ### source
 
-https://thekhankitchen.wordpress.com/2017/08/07/zafrani-malai-paneer/
-
+<a href="https://thekhankitchen.wordpress.com/2017/08/07/zafrani-malai-paneer/" target="_blank" >https://thekhankitchen.wordpress.com/2017/08/07/zafrani-malai-paneer/</a>
 

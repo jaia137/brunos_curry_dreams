@@ -53,5 +53,5 @@ tags:
 
 ### source
 
-https://www.spiceupthecurry.com/baingan-bharta-recipe/
+<a href="https://www.spiceupthecurry.com/baingan-bharta-recipe/" target="_blank" >https://www.spiceupthecurry.com/baingan-bharta-recipe/</a>
 

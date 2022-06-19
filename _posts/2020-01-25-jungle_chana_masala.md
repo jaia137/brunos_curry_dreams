@@ -56,6 +56,5 @@ tags:
 
 ### source
 
-https://www.vegrecipesofindia.com/chana-masala-with-coconut/
-
+<a href="https://www.vegrecipesofindia.com/chana-masala-with-coconut/" target="_blank" >https://www.vegrecipesofindia.com/chana-masala-with-coconut/</a>
 

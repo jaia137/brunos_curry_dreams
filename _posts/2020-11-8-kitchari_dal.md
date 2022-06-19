@@ -51,5 +51,5 @@ tags:
 
 ### source
 
-https://www.jasminehemsley.com/food-blog/2017/12/30/kitchari-every-which-way
+<a href="https://www.jasminehemsley.com/food-blog/2017/12/30/kitchari-every-which-way" target="_blank" >https://www.jasminehemsley.com/food-blog/2017/12/30/kitchari-every-which-way</a>
 
