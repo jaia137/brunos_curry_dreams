@@ -41,8 +41,10 @@ tags:
 
 - careful with the soy sauce, can be very dominant
 - can also be served as soup, just use more liquid
+- add some fresh ginger before serving
 
-### preparation time: 20-30'
+
+### preparation time: 20'
 
 ### source
 

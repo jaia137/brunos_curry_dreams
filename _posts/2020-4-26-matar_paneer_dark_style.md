@@ -30,7 +30,7 @@ tags:
 <input type="checkbox"> 1-3 tbsp of cream
 <input type="checkbox"> 1/2 - 1 tsp dried fenugreek leaves, crushed  (optional)
 <input type="checkbox"> 1 bay leaf (optional)
-
+<input type="checkbox"> fresh cilantro
 
 
 ### instructions:
@@ -49,9 +49,10 @@ tags:
 - you can also go crazy with the peas
 - fenugreek is always a blast in matar paneer
 - use soft tofu for a vegan variant
+- add some fresh ginger before serving
 
 
-### preparation time: 30+'
+### preparation time: 20'
 
 ### source
 

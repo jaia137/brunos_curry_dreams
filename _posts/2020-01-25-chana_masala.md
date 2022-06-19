@@ -32,8 +32,9 @@ tags:
 <input type="checkbox"> 1 tbsp of tomato puree (optional)
 <input type="checkbox"> 1 cup of water
 <input type="checkbox"> 200-300g cooked or soaked chickpeas
-<input type="checkbox"> 1/2 cup fresh cilantro, chopped
-<input type="checkbox"> 2 tsp lemon juice, more to taste
+<input type="checkbox"> 2 tsp lemon juice, more to taste$
+<input type="checkbox"> fresh cilantro
+
 
 
 ### instructions:
@@ -50,8 +51,10 @@ tags:
 - cook the tomato base as long as possible for favourable taste (sugo style) and texture. both play with focus on tomato (add paste) and defocus from tomato (less tomato)
 - squeeze some chickpeas to thicken gravy
 - vary levels of cinnamon, connect with chili
+- add some fresh ginger before serving
 
-### preparation time: 30+'
+
+### preparation time: 30'
 
 ### source
 

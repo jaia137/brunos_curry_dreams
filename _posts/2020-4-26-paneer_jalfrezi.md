@@ -46,7 +46,7 @@ tags:
 - use soft tofu for a vegan variant
 
 
-### preparation time: 30+'
+### preparation time: 20'
 
 ### source
 

@@ -33,7 +33,7 @@ paste/sauce
 <input type="checkbox"> 1/2 cup tomato, chopped or crushed
 <input type="checkbox"> 1 - 2 cups of water
 <input type="checkbox"> 3 tbsp of yogurt (optional)
-<input type="checkbox"> 2 tbsp fresh cilantro
+<input type="checkbox"> fresh cilantro
 
 
 veggies
@@ -51,19 +51,18 @@ veggies
 <input type="checkbox"> add chopped onions, fry until golden or add paste with remaining spices
 <input type="checkbox"> add tomatoes, water and ginger, cook for 15+ minutes
 <input type="checkbox"> cook and/or add veggies, cook until done
-<input type="checkbox"> add fresh cilantro to finish, garnish
+<input type="checkbox"> add fresh cilantro
 <input type="checkbox"> serve with rice or naan
 
 ### chef bruno's pro tips:
 
-- tricky to stick to the 1 curry 1 pan ideal here. could be done by cooking the veggies separately. also, really nice to prepare the paste in a blender
+- tricky to stick to the 1 curry 1 pan ideal here. could be done by cooking the veggies separately also, really nice to prepare the paste in a blender
 - bell pepper taste can be very dominant, make sure you balance it properly
-- poppy seeds taste can be very dominant too, yet it is key to this recipe. try to balance or avoid it completely
-- works fine with many (seasonal) veggies, try broccoli for example. rotate as you like. yet, do not overdose the veggies or compensate by scaling the sauce
-- 
+- poppy seeds taste can be very dominant too
+- works fine with many (seasonal) veggies, try broccoli for example. rotate as you like.
 
 
-### preparation time: 30+'
+### preparation time: 30'
 
 ### source
 

@@ -37,6 +37,7 @@ tags:
 <input type="checkbox"> 1 cup fresh grated coconut or coconut milk
 <input type="checkbox"> 200-300 grams cooked or soaked chickpeas
 <input type="checkbox"> optional: 1 small piece of stone flower (dagad phool)
+<input type="checkbox"> fresh cilantro
 
 
 ### instructions:
@@ -52,7 +53,7 @@ tags:
 
 - given the use of many spices, it may become an overload of tastes. this can be contrasted by making the dish very spicy 
 
-### preparation time: 30+'
+### preparation time: 20'
 
 ### source
 

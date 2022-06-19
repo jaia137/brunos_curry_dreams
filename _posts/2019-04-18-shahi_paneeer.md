@@ -22,7 +22,7 @@ tags:
 <input type="checkbox"> 1/8 tsp green cardamom powder
 <input type="checkbox"> 2 green cardamons
 <input type="checkbox"> 2 cloves
-<input type="checkbox"> 1/2 - 1 inch cinnamon stick
+<input type="checkbox"> 1 - 2 inch cinnamon stick
 <input type="checkbox"> 1 bay leaf (optional)
 <input type="checkbox"> 1 large onion
 <input type="checkbox"> 1-2 garlic
@@ -41,7 +41,7 @@ tags:
 <input type="checkbox"> add garlic and chilies, make paste
 <input type="checkbox"> add tomatoes, water and ginger, cook for 30+ minutes
 <input type="checkbox"> add cashews, blend the sauce,  cook for some minutes
-<input type="checkbox"> fry paneer cubes in separate pan, add paneers to sauce
+<input type="checkbox"> fry paneer cubes in separate pan, add paneer to sauce
 <input type="checkbox"> add cream, salt, and fresh cilantro to finish
 <input type="checkbox"> serve with rice or naan
 
@@ -51,7 +51,7 @@ tags:
 - it is one of the most challenging recipes, hardly you will ever hit the perfect taste. expert stuff
 - use soft tofu for a vegan variant
 
-### preparation time: 30+'
+### preparation time: 30'
 
 ### source
 

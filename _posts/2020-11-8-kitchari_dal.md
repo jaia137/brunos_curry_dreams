@@ -47,7 +47,7 @@ tags:
 -optionally work with curry leaves and asafoetida
 
 
-### preparation time: 20+'
+### preparation time: 20'
 
 ### source
 

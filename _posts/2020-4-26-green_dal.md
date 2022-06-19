@@ -27,13 +27,13 @@ tags:
 <input type="checkbox"> 1 medium  onion, chopped
 <input type="checkbox"> 1 - 2 garlic
 <input type="checkbox"> 1 green chili chopped or slit lengthwise
-<input type="checkbox"> 1/2 inch ginger
+<input type="checkbox"> 1 inch ginger
 <input type="checkbox"> 2 tomato, chopped
 <input type="checkbox"> 2 cups water
 <input type="checkbox"> 250 g green or brown lentils
 <input type="checkbox"> 1 tbsp lemon juice
 <input type="checkbox"> butter to taste (optional)
-<input type="checkbox"> 1 tbsp chopped coriander leaves
+<input type="checkbox"> fresh cilantro
 
 ### instructions:
 
@@ -52,7 +52,7 @@ tags:
 - add some finely chopped veggies (carrots, celeriac, zucchini etc.) to add color and taste variety
 
 
-### preparation time: 30+'
+### preparation time: 20'
 
 ### source
 

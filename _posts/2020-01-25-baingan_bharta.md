@@ -30,7 +30,7 @@ tags:
 <input type="checkbox"> 300-500 g eggplant/aubergine
 <input type="checkbox"> 1 cup green peas 
 <input type="checkbox"> 1 tsp lemon juice
-<input type="checkbox"> 2 tbsps cilantro leaves finely chopped
+<input type="checkbox"> fresh cilantro
 
 
 
@@ -47,7 +47,9 @@ tags:
 ### chef bruno's pro tips:
 
 - cook the tomato base as long as possible for favourable taste (sugo style) and texture
-- eggplant can be bitter - some bitterness is part of the concept. 
+- eggplant can be bitter - some bitterness is part of the concept
+- add some fresh ginger before serving
+
 
 ### preparation time: 20-30'
 

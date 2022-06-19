@@ -23,10 +23,9 @@ for main pan phase 1
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 2 cloves
 <input type="checkbox"> 4-6 black peppercorns (crush some)
-<input type="checkbox"> 1 inch cinnamon stick
+<input type="checkbox"> 1 - 3 inch cinnamon stick
 <input type="checkbox"> 1 green chili, slit
-<input type="checkbox"> 1 bay leaf
-
+<input type="checkbox"> 1 bay leaf2
 for main pan phase 2
 <input type="checkbox"> 1/2 cup yogurt
 <input type="checkbox"> 1/2 cup cream
@@ -35,6 +34,7 @@ for main pan phase 2
 <input type="checkbox"> 1/2 tsp garam masala powder
 <input type="checkbox"> 1/2 - 1 tsp chili powder, kashmiri preferred
 <input type="checkbox"> 250-400 g fresh paneer cubed, fried
+<input type="checkbox"> fresh cilantro
 
 
 ### instructions:
@@ -53,7 +53,7 @@ for main pan phase 2
 - onions and garlic won't be cooked much, strong in taste. dose appropriately
 
 
-### preparation time: 20+'
+### preparation time: 20'
 
 ### source
 

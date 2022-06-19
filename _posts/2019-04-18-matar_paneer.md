@@ -21,15 +21,15 @@ tags:
 <input type="checkbox"> 1/2 tsp chili powder and/or 1-2 green chilies
 <input type="checkbox"> 1 large onion, chopped
 <input type="checkbox"> 1-2 garlic, crushed or finely chopped
-<input type="checkbox"> 1 inch ginger
+<input type="checkbox"> 1 - 2 inch ginger
 <input type="checkbox"> 1 cup chopped/crushed tomato
-<input type="checkbox"> 1-2 cup water
+<input type="checkbox"> 1 - 2 cup water
 <input type="checkbox"> 250-400 g fresh paneer cubed
 <input type="checkbox"> 1 cup peas
 <input type="checkbox"> 1/4 cup cream 
-<input type="checkbox"> fresh cilantro
 <input type="checkbox"> 1/2 - 1 tsp dried fenugreek leaves, crushed  (optional)
 <input type="checkbox"> 1 bay leaf (optional)
+<input type="checkbox"> fresh cilantro
 
 ### instructions:
 <input type="checkbox"> fry spices
@@ -37,17 +37,17 @@ tags:
 <input type="checkbox"> add garlic and chilies, make paste
 <input type="checkbox"> add tomatoes, water and ginger, cook for 30+ minutes
 <input type="checkbox"> blend the sauce, add peas, cook for 15 minutes
-<input type="checkbox"> fry paneer cubes in separate pan, add paneers to sauce
+<input type="checkbox"> fry paneer cubes in separate pan, add paneer to sauce
 <input type="checkbox"> add cream, salt, and fresh cilantro to finish
 <input type="checkbox"> serve with rice or naan
 
 ### chef bruno's pro tips:
 
-- this is a classic, mild version of the mutter paneer. use dried fenugrek leaves to boost umami
+- this is a classic, mild version of the matar paneer. use dried fenugrek leaves to boost umami
 - cook the tomato base as long as possible for favourable taste (sugo style) and texture
 - use soft tofu for a vegan variant
 
-### preparation time: 30+'
+### preparation time: 20 - 30'
 
 ### source
 

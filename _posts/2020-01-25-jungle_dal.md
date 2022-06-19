@@ -38,7 +38,7 @@ tags:
 - dish relies heavily on curry leaves and coconut milk taste, aim for quality products
 - simple but very tasty recipe! no ginger, not much spices
 
-### preparation time: 20-30'
+### preparation time: 15'
 
 ### source
 
