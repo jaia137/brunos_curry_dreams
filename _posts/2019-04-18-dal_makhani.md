@@ -46,6 +46,7 @@ tags:
 - cook the tomato base as long as possible for favourable taste (sugo style) and texture
 - add some fresh ginger before serving
 - vegan option: don't use or substitute cream and butter. in any case, vegan lentils are more on the dark side
+- not a 100% traditional recipe
 
 ### preparation time: 20 - 30'
 

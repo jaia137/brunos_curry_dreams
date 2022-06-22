@@ -17,8 +17,9 @@ tags:
 
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 1 tsp fennel powder
-<input type="checkbox"> 2-3 tsp curry madras (or alike)
-<input type="checkbox"> 4-8 curry leaves (optional)
+<input type="checkbox"> 2 - 3 tsp curry madras (or alike)
+<input type="checkbox"> 4 - 8 curry leaves (optional)
+<input type="checkbox"> 1 - 3 threads saffron (optional)
 <input type="checkbox"> 1 - 2 cup coconut milk
 <input type="checkbox"> 1/2 cup water
 <input type="checkbox"> 250 g fresh or frozen spinach
