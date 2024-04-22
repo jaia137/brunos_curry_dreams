@@ -16,10 +16,10 @@ All recipes are at least lacto-vegetarian (paneer, cream or butter in some dishe
 
 **Seven cooking steps**
 
-1. Prepare and fry spices. Do not burn them, watch carefully.
-2. Add onion and fry until golden.
-3. Add garlic, chili peppers, and quickly fry them.
-4. Make spice paste - not a "grinded" paste unless indicated. This "paste" could also be conserved for later and/or mobile curry action. Not a "real" cooking step, but nice to make it up to 7.
+1. Heat oil, add onion and fry until golden.
+2. Prepare and fry whole spices (including cumin seeds). Do not burn them, watch carefully. 
+3. Add garlic, chili peppers, and powder spices and quickly fry them.
+4. Make spice paste - not a "grinded" paste unless indicated. This "paste" could also be conserved for later and/or mobile curry action. Not a "real" cooking step, but it helps to reach 7 cooking steps.
 5. Add water, tomatoes, coconut milk etc. to start the cooking phase. In the case of tomato base, it may take a while to build the fundamental taste of the sauce ("sugo style").
 6. Add "main" ingredient like lentils, beans or vegetables. Cook them until done. They may also be cooked separately, as in many original recipes. In any case, make sure to simmer these ingredients for some minutes in any scenario.
 7. This is the phase of final touches: herbs (cilantro, fenugreek leaves), cream and butter or alternatives, salt to taste, lemon juice, or paneer etc. will be added here. Stir it up well for a last time and taste it to perfection.
