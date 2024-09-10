@@ -56,3 +56,6 @@ tags:
 [https://www.bbc.co.uk/food/recipes/slightlysweetbengalg_86576](https://www.bbc.co.uk/food/recipes/slightlysweetbengalg_86576)
 
 
+<image src="assets/images/931v9i.gif" alt="Spinners" width="450" /> 
+
+[An a animated Gif](assets/images/931v9i.gif)
