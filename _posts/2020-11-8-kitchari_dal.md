@@ -19,7 +19,7 @@ tags:
 <input type="checkbox"> 1 tsp fennel seeds
 <input type="checkbox"> 1-2 tsp black mustards seeds, or brown
 <input type="checkbox"> 1-2 tsp cumin seeds
-<input type="checkbox"> 2 cloves
+<input type="checkbox"> 1-2 cloves
 <input type="checkbox"> 1 bay leaf
 <input type="checkbox"> 2-4 cardamon pods
 <input type="checkbox"> 1 tsp turmeric
@@ -47,7 +47,7 @@ tags:
 -optionally work with curry leaves and asafoetida
 
 
-### preparation time: 20'
+### preparation time: 15'
 
 ### source
 
