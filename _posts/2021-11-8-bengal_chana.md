@@ -17,7 +17,7 @@ tags:
 <input type="checkbox"> 1 tsp mustard seeds
 <input type="checkbox"> 1-2 cloves
 <input type="checkbox"> 3 green cardamom pods
-<input type="checkbox"> 1 inch stick cinnamon or 1/2 tsb cinnamon powder
+<input type="checkbox"> 1 inch stick cinnamon or 1/2 tsp cinnamon powder
 <input type="checkbox"> 1 tsp cumin seeds
 <input type="checkbox"> 4-6 fresh curry leaves, or dried
 <input type="checkbox"> 1 tsp coriander powder
@@ -56,4 +56,4 @@ tags:
 [https://www.bbc.co.uk/food/recipes/slightlysweetbengalg_86576](https://www.bbc.co.uk/food/recipes/slightlysweetbengalg_86576)
 
 
-[An a animated Gif](assets/images/931v9i.gif)
+![An animated Gif](assets/images/931v9i.gif)
