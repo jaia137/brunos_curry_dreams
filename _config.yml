@@ -69,6 +69,12 @@ author:
       url: "https://github.com/jaia137/brunos_curry_dreams"
 
 
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jaia137/brunos_curry_dreams"
+
 defaults:
   # _posts
   - scope:
@@ -79,7 +85,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
