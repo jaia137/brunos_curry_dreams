@@ -5,7 +5,6 @@ categories:
   - challenge mode 
 tags:
   - north
-  - vegan
   - veggies
 
 ---

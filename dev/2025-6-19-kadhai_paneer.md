@@ -1,5 +1,5 @@
 ---
-title: "Aloo Gobi Dark Style"
+title: "Kadhai Paneer"
 date: 2022-06-19T15:34:30-04:00
 categories:
   - challenge mode 

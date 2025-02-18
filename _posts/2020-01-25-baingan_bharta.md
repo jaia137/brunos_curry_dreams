@@ -9,7 +9,6 @@ tags:
   - vegan
   - veggies
 
-
 ---
 
 ### ingredients:
