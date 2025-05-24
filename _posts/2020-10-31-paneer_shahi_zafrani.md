@@ -32,7 +32,7 @@ for main pan phase 2
 <input type="checkbox"> 2-4 strands of saffron
 <input type="checkbox"> ¼ tsp cardamom powder
 <input type="checkbox"> ½ tsp garam masala
-<input type="checkbox"> 1/2 - 1 tsp chili powder, kashmiri preferred
+<input type="checkbox"> ½-1 tsp chili powder, kashmiri preferred
 <input type="checkbox"> 250-400 g fresh paneer cubed, fried
 <input type="checkbox"> fresh cilantro
 

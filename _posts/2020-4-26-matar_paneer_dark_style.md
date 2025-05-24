@@ -28,7 +28,7 @@ tags:
 <input type="checkbox"> 1-1.5 cup peas
 <input type="checkbox"> 250-400 g fresh paneer cubed
 <input type="checkbox"> 1-3 tbsp of cream
-<input type="checkbox"> 1/2 - 1 tsp dried crushed fenugreek leaves  (optional)
+<input type="checkbox"> ½-1 tsp dried crushed fenugreek leaves  (optional)
 <input type="checkbox"> 1 bay leaves (optional)
 <input type="checkbox"> fresh cilantro
 

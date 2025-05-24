@@ -22,7 +22,7 @@ tags:
 <input type="checkbox"> 1 tsp cumin seeds
 <input type="checkbox"> 4-6 fresh curry leaves, or dried
 <input type="checkbox"> 1 tsp ground coriander
-<input type="checkbox"> 1/2 - 1 tsp ground turmeric
+<input type="checkbox"> ½-1 tsp ground turmeric
 <input type="checkbox"> ½ tsp ground cumin
 <input type="checkbox"> 1 tsp garam masala
 <input type="checkbox"> 2 tsp coconut sugar or brown sugar

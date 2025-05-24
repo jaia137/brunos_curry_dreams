@@ -17,7 +17,7 @@ tags:
 <input type="checkbox"> 2-4 tbsp vegetable oil             
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 1 tsp black pepper, crushed
-<input type="checkbox"> 1/2 - 1 tsp fennel seeds
+<input type="checkbox"> ½-1 tsp fennel seeds
 <input type="checkbox"> 1 tsp black or brown mustards seeds
 <input type="checkbox"> 1-2 tsp cumin seeds
 <input type="checkbox"> 1-2 cloves

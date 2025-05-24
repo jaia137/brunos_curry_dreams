@@ -23,10 +23,10 @@ for cooking sauce
 <input type="checkbox"> 2-4 tbsp vegetable oil 
 <input type="checkbox"> 1 tsp salt, more to taste 
 <input type="checkbox"> ½ tsp ground turmeric
-<input type="checkbox"> 1/2 - 1 tsp garam masala
+<input type="checkbox"> ½-1 tsp garam masala
 <input type="checkbox"> 1 tsp cilantro powder 
-<input type="checkbox"> 1/2 - 1 tsp chili powder
-<input type="checkbox"> 1/2 - 1 tsp dried crushed fenugreek leaves 
+<input type="checkbox"> ½-1 tsp chili powder
+<input type="checkbox"> ½-1 tsp dried crushed fenugreek leaves 
 <input type="checkbox"> 1 chopped onion
 <input type="checkbox"> 1 - 2 garlic, minced
 <input type="checkbox"> 1 - 2 inch ginger
