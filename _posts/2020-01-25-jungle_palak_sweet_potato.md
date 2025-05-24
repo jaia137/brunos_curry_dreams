@@ -21,7 +21,7 @@ tags:
 <input type="checkbox"> 4 - 8 curry leaves (optional)
 <input type="checkbox"> 1 - 3 threads saffron (optional)
 <input type="checkbox"> 1 - 2 cup coconut milk
-<input type="checkbox"> 1/2 cup water
+<input type="checkbox"> ½ cup water
 <input type="checkbox"> 250 g fresh or frozen spinach
 <input type="checkbox"> 250 g sweet potatoes, cubed
 

@@ -13,11 +13,11 @@ tags:
 
 ### ingredients:
 
-<input type="checkbox"> 2 - 4 tbsp vegetable oil
+<input type="checkbox"> 2-4 tbsp vegetable oil
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 1 tsp cumin seeds (coarsely ground)
 <input type="checkbox"> 1 tsp (mild) chili powder
-<input type="checkbox"> 1/2 tsp garam masala powder
+<input type="checkbox"> ½ tsp garam masala
 <input type="checkbox"> 1 pinch asafoetida
 <input type="checkbox"> 1 large onion
 <input type="checkbox"> 2 - 4 garlic
@@ -33,10 +33,10 @@ tags:
 <input type="checkbox"> fresh cilantro
 
 ### instructions:
-<input type="checkbox"> fry spices
-<input type="checkbox"> add chopped onions, fry until golden
-<input type="checkbox"> add garlic and chilies, make paste
-<input type="checkbox"> add tomatoes, water and ginger, cook for 15+ minutes
+<input type="checkbox"> Heat oil and fry spices.
+<input type="checkbox"> Add chopped onion and fry until golden.
+<input type="checkbox"> add garlic and chili, make paste
+<input type="checkbox"> Add chopped tomatoes, water, and ginger. Simmer for 15 minutes.
 <input type="checkbox"> add lentils and beans, cook until done
 <input type="checkbox"> add cream, butter, salt, and fresh cilantro to finish
 <input type="checkbox"> serve with rice or naan

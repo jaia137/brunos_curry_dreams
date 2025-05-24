@@ -12,14 +12,14 @@ tags:
 
 ### ingredients:
 
-<input type="checkbox"> 2 - 4 tbsp vegetable oil
+<input type="checkbox"> 2-4 tbsp vegetable oil
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 1 tsp  chili powder (kashmiri preferred)
-<input type="checkbox"> 1 tsp coriander powder
+<input type="checkbox"> 1 tsp ground coriander
 <input type="checkbox"> 1 tsp cumin seeds
-<input type="checkbox"> 1/4 tsp turmeric powder
+<input type="checkbox"> ¼ tsp ground turmeric
 <input type="checkbox"> 1 tsp lemon juice
-<input type="checkbox"> 1 bay leaf (optional)
+<input type="checkbox"> 1 bay leaves (optional)
 <input type="checkbox"> 1 medium onion
 <input type="checkbox"> 1 - 2 garlic
 <input type="checkbox"> 1 inch ginger
@@ -30,10 +30,10 @@ tags:
 <input type="checkbox"> fresh cilantro
 
 ### instructions:
-<input type="checkbox"> fry spices
-<input type="checkbox"> add chopped onions, fry until golden
+<input type="checkbox"> Heat oil and fry spices.
+<input type="checkbox"> Add chopped onion and fry until golden.
 <input type="checkbox"> add garlic, make paste
-<input type="checkbox"> add tomatoes, water and ginger, cook for 15+ minutes
+<input type="checkbox"> Add chopped tomatoes, water, and ginger. Simmer for 15 minutes.
 <input type="checkbox"> add peppers, cook for some minutes
 <input type="checkbox"> fry paneer cubes in separate pan, add paneers to sauce
 <input type="checkbox"> add salt, lemon juice and fresh cilantro to finish

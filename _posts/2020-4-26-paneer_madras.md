@@ -20,7 +20,7 @@ tags:
 <input type="checkbox"> 1 small to medium onion
 <input type="checkbox"> 2 - 4 tsp madras curry powder
 <input type="checkbox"> 1 - 2 cup coconut milk
-<input type="checkbox"> 2 - 4 tbsp coconut flakes
+<input type="checkbox"> 2-4 tbsp coconut flakes
 <input type="checkbox"> 1/2 - 1 cup water
 <input type="checkbox"> 250-400 g fresh paneer cubed
 <input type="checkbox"> fresh cilantro

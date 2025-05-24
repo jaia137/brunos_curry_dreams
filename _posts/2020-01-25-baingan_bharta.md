@@ -13,19 +13,19 @@ tags:
 
 ### ingredients:
 
-<input type="checkbox"> 2 - 4 tbsp vegetable oil
+<input type="checkbox"> 2-4 tbsp vegetable oil
 <input type="checkbox"> 1 tsp salt, more to taste
-<input type="checkbox"> 1/4 tsp turmeric powder
-<input type="checkbox"> 1/2 tsp red chili powder
-<input type="checkbox"> 1/2 tsp coriander powder
+<input type="checkbox"> ¼ tsp ground turmeric
+<input type="checkbox"> ½ tsp ground red chili
+<input type="checkbox"> ½ tsp ground coriander
 <input type="checkbox"> ½ tsp cumin seeds
 <input type="checkbox"> 1 pinch asafoetida
-<input type="checkbox"> 1 medium onion, chopped
-<input type="checkbox"> 2-4 cloves garlic, crushed or finely chopped
+<input type="checkbox"> 1 medium chopped onion
+<input type="checkbox"> 2-4 cloves garlic, minced
 <input type="checkbox"> 1 green chili, slit or chopped
 <input type="checkbox"> 1 inch ginger
 <input type="checkbox"> 2 small or 1 cup tomatoes finely chopped
-<input type="checkbox"> 1/2 cup water
+<input type="checkbox"> ½ cup water
 <input type="checkbox"> 300-500 g eggplant/aubergine
 <input type="checkbox"> 1 cup green peas 
 <input type="checkbox"> 1 tsp lemon juice
@@ -35,9 +35,9 @@ tags:
 
 
 ### instructions:
-<input type="checkbox"> fry spices
-<input type="checkbox"> add chopped onions, fry until golden
-<input type="checkbox"> add garlic and chilies, make paste
+<input type="checkbox"> Heat oil and fry spices.
+<input type="checkbox"> Add chopped onion and fry until golden.
+<input type="checkbox"> add garlic and chili, make paste
 <input type="checkbox"> add tomatoes, water and ginger, cook for some minutes
 <input type="checkbox"> prepare eggplant: roast, steam, peal as you like
 <input type="checkbox"> add eggplant and peas, salt, cook until done, add cilantro

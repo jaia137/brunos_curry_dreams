@@ -13,24 +13,24 @@ tags:
 ### ingredients:
 
 paste/sauce
-<input type="checkbox"> 2 - 4 tbsp vegetable oil
+<input type="checkbox"> 2-4 tbsp vegetable oil
 <input type="checkbox"> 1 tsp salt, more to taste
-<input type="checkbox"> 1/2 tsp cumin seeds
-<input type="checkbox"> 1/4 tsp turmeric powder
+<input type="checkbox"> ½ tsp cumin seeds
+<input type="checkbox"> ¼ tsp ground turmeric
 <input type="checkbox"> 1 tsp chili powder
-<input type="checkbox"> 1 tsp coriander powder
+<input type="checkbox"> 1 tsp ground coriander
 <input type="checkbox"> 1 tsp poppy seeds 
 <input type="checkbox"> 2 green cardamoms
 <input type="checkbox"> 2 cloves
 <input type="checkbox"> 1/2 inch cinnamon stick
 <input type="checkbox"> 4-8 black pepper corns
-<input type="checkbox"> 1/2 cup of coconut (milk)
+<input type="checkbox"> ½ cup of coconut milk
 <input type="checkbox"> 8-12 cashew nuts or 2 tbsp of cashew paste
 <input type="checkbox"> 1 medium onion
 <input type="checkbox"> 2 garlic
 <input type="checkbox"> 1 green chili, slit or chopped
 <input type="checkbox"> 1 inch ginger
-<input type="checkbox"> 1/2 cup tomato, chopped or crushed
+<input type="checkbox"> ½ cup chopped tomatoes
 <input type="checkbox"> 1 - 2 cups of water
 <input type="checkbox"> 3 tbsp of yogurt (optional)
 <input type="checkbox"> fresh cilantro
@@ -47,9 +47,9 @@ veggies
 
 
 ### instructions:
-<input type="checkbox"> fry spices or prepare paste with cumin seeds, poppy seeds, coconut, cashew, garlic, onion, and ginger
-<input type="checkbox"> add chopped onions, fry until golden or add paste with remaining spices
-<input type="checkbox"> add tomatoes, water and ginger, cook for 15+ minutes
+<input type="checkbox"> Heat oil and fry spices. or prepare paste with cumin seeds, poppy seeds, coconut, cashew, garlic, onion, and ginger
+<input type="checkbox"> Add chopped onion and fry until golden. or add paste with remaining spices
+<input type="checkbox"> Add chopped tomatoes, water, and ginger. Simmer for 15 minutes.
 <input type="checkbox"> cook and/or add veggies, cook until done
 <input type="checkbox"> add fresh cilantro
 <input type="checkbox"> serve with rice or naan

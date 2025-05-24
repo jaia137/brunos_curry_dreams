@@ -14,24 +14,24 @@ tags:
 
 for making paste
 <input type="checkbox"> 1 medium onion
-<input type="checkbox"> 1/2 cup cashews
+<input type="checkbox"> ½ cup cashews
 <input type="checkbox"> 1 inch ginger
 <input type="checkbox"> 1 garlic
 
 for main pan phase 1
-<input type="checkbox"> 2 - 4 tbsp vegetable oil
+<input type="checkbox"> 2-4 tbsp vegetable oil
 <input type="checkbox"> 1 tsp salt, more to taste
 <input type="checkbox"> 2 cloves
 <input type="checkbox"> 4-6 black peppercorns (crush some)
 <input type="checkbox"> 1 - 3 inch cinnamon stick
 <input type="checkbox"> 1 green chili, slit
-<input type="checkbox"> 1 bay leaf2
+<input type="checkbox"> 1 bay leaves2
 for main pan phase 2
-<input type="checkbox"> 1/2 cup yogurt
-<input type="checkbox"> 1/2 cup cream
+<input type="checkbox"> ½ cup yogurt
+<input type="checkbox"> ½ cup cream
 <input type="checkbox"> 2-4 strands of saffron
-<input type="checkbox"> 1/4 tsp cardamom powder
-<input type="checkbox"> 1/2 tsp garam masala powder
+<input type="checkbox"> ¼ tsp cardamom powder
+<input type="checkbox"> ½ tsp garam masala
 <input type="checkbox"> 1/2 - 1 tsp chili powder, kashmiri preferred
 <input type="checkbox"> 250-400 g fresh paneer cubed, fried
 <input type="checkbox"> fresh cilantro
@@ -40,7 +40,7 @@ for main pan phase 2
 ### instructions:
 
 <input type="checkbox"> make paste in blender
-<input type="checkbox"> fry spices of main pan phase 1
+<input type="checkbox"> Heat oil and fry spices. of main pan phase 1
 <input type="checkbox"> add paste, some water, cook some moments
 <input type="checkbox"> add ingredients of main pan phase 2, cook some moments
 <input type="checkbox"> add paneer

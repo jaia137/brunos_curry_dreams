@@ -12,13 +12,13 @@ tags:
 
 ### ingredients:
 
-<input type="checkbox"> 2 - 4 tbsp vegetable oil
+<input type="checkbox"> 2-4 tbsp vegetable oil
 <input type="checkbox"> 1 tsp salt, more to taste
-<input type="checkbox"> 1 tsp cumin powder 
-<input type="checkbox"> 2 tsp coriander powder
-<input type="checkbox"> 2 tsp garam masala powder
-<input type="checkbox"> 1/2 tsp red chili powder
-<input type="checkbox"> 1/2 tsp turmeric powder 
+<input type="checkbox"> 1 tsp ground cumin 
+<input type="checkbox"> 2 tsp ground coriander
+<input type="checkbox"> 2 tsp garam masala
+<input type="checkbox"> ½ tsp ground red chili
+<input type="checkbox"> ½ tsp ground turmeric 
 <input type="checkbox"> 2 medium or 1 large onion
 <input type="checkbox"> 1 garlic
 <input type="checkbox"> 1 green chili slit or chopped
@@ -28,16 +28,16 @@ tags:
 <input type="checkbox"> 1-1.5 cup peas
 <input type="checkbox"> 250-400 g fresh paneer cubed
 <input type="checkbox"> 1-3 tbsp of cream
-<input type="checkbox"> 1/2 - 1 tsp dried fenugreek leaves, crushed  (optional)
-<input type="checkbox"> 1 bay leaf (optional)
+<input type="checkbox"> 1/2 - 1 tsp dried crushed fenugreek leaves  (optional)
+<input type="checkbox"> 1 bay leaves (optional)
 <input type="checkbox"> fresh cilantro
 
 
 ### instructions:
-<input type="checkbox"> fry spices
+<input type="checkbox"> Heat oil and fry spices.
 <input type="checkbox"> add chopped onions, fry for some seconds (onion taste to be preserved)
-<input type="checkbox"> add garlic and chilies, make paste
-<input type="checkbox"> add tomatoes, water and ginger, cook for 15+ minutes
+<input type="checkbox"> add garlic and chili, make paste
+<input type="checkbox"> Add chopped tomatoes, water, and ginger. Simmer for 15 minutes.
 <input type="checkbox"> add peas, cook for some minutes
 <input type="checkbox"> fry paneer cubes in separate pan, add paneers to sauce
 <input type="checkbox"> add cream, fresh cilantro to finish
