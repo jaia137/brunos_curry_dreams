@@ -28,7 +28,7 @@ tags:
 <input type="checkbox"> 1-2 garlic
 <input type="checkbox"> 1 green chili
 <input type="checkbox"> 1 inch ginger
-<input type="checkbox"> 1 cup chopped or crushed tomato
+<input type="checkbox"> 1-2 cup chopped or crushed tomato
 <input type="checkbox"> 1 cup water
 <input type="checkbox"> 1/4 - ½ cup of soaked and crushed cashews or 2-4 tbsps of cashew paste
 <input type="checkbox"> 250-400 g fresh paneer cubed

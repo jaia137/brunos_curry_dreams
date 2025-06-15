@@ -24,7 +24,7 @@ tags:
 <input type="checkbox"> 2-4 cloves garlic, minced
 <input type="checkbox"> 1 green chili, slit or chopped
 <input type="checkbox"> 1 inch ginger
-<input type="checkbox"> 2 small or 1 cup tomatoes finely chopped
+<input type="checkbox"> 1-2 cup chopped or crushed tomato
 <input type="checkbox"> ½ cup water
 <input type="checkbox"> 300-500 g eggplant/aubergine
 <input type="checkbox"> 1 cup green peas 

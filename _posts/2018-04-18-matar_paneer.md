@@ -22,8 +22,8 @@ tags:
 <input type="checkbox"> 1 large chopped onion
 <input type="checkbox"> 1-2 garlic, minced
 <input type="checkbox"> 1 - 2 inch ginger
-<input type="checkbox"> 1 cup chopped/crushed tomato
-<input type="checkbox"> 1 - 2 cup water
+<input type="checkbox"> 1-2 cup chopped or crushed tomato
+<input type="checkbox"> 1 cup water
 <input type="checkbox"> 250-400 g fresh paneer cubed
 <input type="checkbox"> 1 cup peas
 <input type="checkbox"> 1/4 cup cream 

@@ -23,7 +23,7 @@ tags:
 <input type="checkbox"> 2 - 4 garlic
 <input type="checkbox"> 1 green chili
 <input type="checkbox"> 1 inch ginger
-<input type="checkbox"> 1 - 2 cup chopped or crushed tomato
+<input type="checkbox"> 1-2 cup chopped or crushed tomato
 <input type="checkbox"> 1 - 3 tbsp tomato puree
 <input type="checkbox"> 1 - 2 cup water
 <input type="checkbox"> 250 g urad, green, brown or black lentils

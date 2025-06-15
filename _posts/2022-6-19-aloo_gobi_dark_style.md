@@ -30,7 +30,7 @@ for cooking sauce
 <input type="checkbox"> 1 chopped onion
 <input type="checkbox"> 1 - 2 garlic, minced
 <input type="checkbox"> 1 - 2 inch ginger
-<input type="checkbox"> 1 - 2 cup chopped tomatoes
+<input type="checkbox"> 1-2 cup chopped or crushed tomato
 <input type="checkbox"> 1 - 2 cup water
 <input type="checkbox"> 250 g cauliflower cubes
 <input type="checkbox"> 250 g potato cubes

@@ -28,7 +28,7 @@ tags:
 <input type="checkbox"> 1-3 cloves garlic, minced
 <input type="checkbox"> 1 green chili, sliced 
 <input type="checkbox"> 1 inch ginger
-<input type="checkbox"> 1 - ½ cups of chopped tomato
+<input type="checkbox"> 1-2 cup chopped or crushed tomato
 <input type="checkbox"> 1 tbsp of tomato puree (optional)
 <input type="checkbox"> 1 cup of water
 <input type="checkbox"> 200-300g cooked or soaked chickpeas

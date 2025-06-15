@@ -24,25 +24,25 @@ paste/sauce
 <input type="checkbox"> 2 cloves
 <input type="checkbox"> 1/2 inch cinnamon stick
 <input type="checkbox"> 4-8 black pepper corns
-<input type="checkbox"> ½ cup of coconut milk
+<input type="checkbox"> ½ - 1 cup of coconut milk
 <input type="checkbox"> 8-12 cashew nuts or 2 tbsp of cashew paste
 <input type="checkbox"> 1 medium onion
 <input type="checkbox"> 2 garlic
 <input type="checkbox"> 1 green chili, slit or chopped
 <input type="checkbox"> 1 inch ginger
-<input type="checkbox"> ½ cup chopped tomatoes
+<input type="checkbox"> ½ - 1 cup chopped tomatoes
 <input type="checkbox"> 1 - 2 cups of water
 <input type="checkbox"> 3 tbsp of yogurt (optional)
 <input type="checkbox"> fresh cilantro
 
 
 veggies
-<input type="checkbox"> 1/3 cup potatoes cut into medium chunks
-<input type="checkbox"> 1/3 cup green beans (haricot) cut into halves
-<input type="checkbox"> 1/3 cup colored bell peppers (green preferred) cut into medium chunks
-<input type="checkbox"> 1/3 cup carrots cut into small chunks
-<input type="checkbox"> 1/3 cup green peas
-<input type="checkbox"> 1/3 cup cauliflower cut into medium chunks
+<input type="checkbox"> 1/2 cup potatoes cut into medium chunks
+<input type="checkbox"> 1/2 cup green beans (haricot) cut into halves
+<input type="checkbox"> 1/2 cup colored bell peppers (green preferred) cut into medium chunks
+<input type="checkbox"> 1/2 cup carrots cut into small chunks
+<input type="checkbox"> 1/2 cup green peas
+<input type="checkbox"> 1/2 cup cauliflower cut into medium chunks
 
 
 

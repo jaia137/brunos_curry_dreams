@@ -23,7 +23,7 @@ tags:
 <input type="checkbox"> 1 medium onion
 <input type="checkbox"> 1 - 2 garlic
 <input type="checkbox"> 1 inch ginger
-<input type="checkbox"> 1 cup chopped or crushed tomato
+<input type="checkbox"> 1-2 cup chopped or crushed tomato
 <input type="checkbox"> 1 cup water
 <input type="checkbox"> 1 large or 2-3 small (bell) peppers of various colours, sliced. green is preferred.
 <input type="checkbox"> 250-400 g fresh paneer cubed
